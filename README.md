@@ -9,10 +9,12 @@ First up:
 - Make sure you have [Node installed](https://nodejs.org/en/)
 - Make sure you have Grunt installed
 
+Or install both of these using [Homebrew](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x)
+
 Then:
 
 - Clone this repo
-- ```NPM install```
+- ```npm install```
 - ```grunt```
 
 To stop it all: ```^c```
