@@ -1,3 +1,0 @@
-<script src="{{ asset_path('assets/javascripts/nhsuk.bundle.js') }}" type="text/javascript"></script>
-
-{% include '_includes/global/analytics.nunjucks' %}
