@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"file": "main.css",
+	"file": "nhsuk.css",
 	"sources": [
 		"../stylesheets/nhsuk.scss",
 		"../stylesheets/environment/settings/_globals.scss",

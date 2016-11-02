@@ -28,7 +28,8 @@ module.exports = function(grunt) {
           sourceMap: true
         },
         files: {
-          'assets/css/main.css': 'assets/stylesheets/nhsuk.scss'
+          'assets/css/nhsuk.css': 'assets/stylesheets/nhsuk.scss',
+          'assets/css/nhsuk-print.css': 'assets/stylesheets/nhsuk-print.scss'
         }
       }
     },
