@@ -19,20 +19,23 @@ module.exports = function(grunt) {
     },
 
     sass: {
+      options: {
+        includePaths: ['node_modules/normalize-scss/sass']
+      },
       dist: {
         options: {
           outputStyle: 'expanded',
           sourceMap: true
         },
         files: {
-          'assets/css/main.css': 'assets/scss/main.scss'
+          'assets/css/main.css': 'assets/stylesheets/nhsuk.scss'
         }
       }
     },
 
     watch: {
 			css: {
-				files: ['assets/scss/**/*.scss'],
+				files: ['assets/stylesheets/**/*.scss'],
 				tasks: ['sass']
 			}
 		},

@@ -25,6 +25,7 @@
     "moment-timezone": "^0.5.4",
     "node-uuid": "^1.4.7",
     "nodemon": "^1.8.1",
+    "normalize-scss": "^6.0.0",
     "request": "^2.72.0"
   }
 }
