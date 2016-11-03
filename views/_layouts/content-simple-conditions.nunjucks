@@ -18,7 +18,7 @@
     
     <div class="column__two-thirds">
       <div class="reading-width">
-        {% block content_sidebar_last_after %}{% endblock %}
+        {% block content_sidebar_last %}{% endblock %}
       </div>
     </div>
 
