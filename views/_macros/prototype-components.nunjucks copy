@@ -25,11 +25,11 @@
   <!--[if gt IE 7]><!--></noscript><!--<![endif]-->
 {% endmacro %}
 
-{* macro markdown(content) *}
-{* markdown *}
+{% macro markdown(content) %}
+{% markdown %}
   {{ content | safe }}
-{* endmarkdown *}
-{* endmacro *}
+{% endmarkdown%}
+{% endmacro %}
 
 {% macro content_block(content) %}
   <div class="page-section">
