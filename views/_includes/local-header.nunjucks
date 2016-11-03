@@ -5,7 +5,7 @@
 
   <h1 class="local-header--title">{{ guide.title if guide else title }}</h1>
 
-  {% if localHeader or guide %}
+  {% if localHeader or guide or intro %}
     <div class="local-header--intro">
       {% if guide %}
         {{ components.numbered_navigation(guide.pages, slug) }}
@@ -18,6 +18,10 @@
           {{ components[component.type](component.content) }}
         {% endif %}
       {% endfor %}
+      
+      {% if intro %}
+        <p>{{ intro }}</p>
+      {% endif %}
     </div>
   {% endif %}
 </div>
