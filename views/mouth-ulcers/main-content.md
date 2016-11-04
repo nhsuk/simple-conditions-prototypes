@@ -52,7 +52,42 @@ Although most mouth ulcers are harmless, a long-lasting mouth ulcer is sometimes
 
 ## Check if you have a mouth ulcer
 
-<-- images -->
+<section class="tabs js-tabs">
+
+  <div class="tabs--tab-container js-tabs-content">
+      <div class="tabs--tab js-tab-pane" id="tab-tongue">
+        <h3 class="tabs--tab-heading">Tongue</h3>
+        <div class="tabs--tab-content">
+          <img src="http://placekitten.com/630/420" />
+        </div>
+      </div>
+      <div class="tabs--tab js-tab-pane" id="tab-lips }}">
+        <h3 class="tabs--tab-heading">Lips</h3>
+        <div class="tabs--tab-content">
+          <img src="http://placekitten.com/633/422" />
+        </div>
+      </div>
+      <div class="tabs--tab js-tab-pane" id="tab-cheek }}">
+        <h3 class="tabs--tab-heading">Cheek</h3>
+        <div class="tabs--tab-content">
+          <img src="http://placekitten.com/636/424" />
+        </div>
+      </div>
+  </div>
+
+  <ul class="tabs--nav js-tabs-nav">
+    <li class="tabs--nav-item">
+      <a href="#tab-tongue" class="tabs--nav-link">Tongue</a>
+    </li>
+    <li class="tabs--nav-item">
+      <a href="#tab-lips" class="tabs--nav-link">Lips</a>
+    </li>
+    <li class="tabs--nav-item">
+      <a href="#tab-cheek" class="tabs--nav-link">Cheek</a>
+    </li>
+  </ul>
+
+</section>
 
 Mouth ulcers usually appear inside the mouth on the cheeks, tongue or lips. It’s possible to have more than one ulcer at a time and they may shrink, grow or spread.
 
