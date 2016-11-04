@@ -15,12 +15,6 @@
         {% block sidebar %}{% endblock %}
       </div>
     </div>
-    
-    <div class="column__two-thirds">
-      <div class="reading-width">
-        {% block content_sidebar_last %}{% endblock %}
-      </div>
-    </div>
 
   </div>
 </div>
