@@ -15,5 +15,7 @@ There is a flu vaccine that reduces the risk of catching flu and spreading it to
 Flu vaccinations are usually available during flu season - December to March.
 
 [Add a flu vaccination reminder to your calendar.](#)
+
 [Flu: vaccination: what’s involved](#)
+
 [Find out if you’re eligible for a free vaccine](#)

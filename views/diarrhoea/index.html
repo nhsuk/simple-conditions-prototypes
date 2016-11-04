@@ -4,7 +4,7 @@
 {% set intro = 'Usually diarrhoea goes away within a few days. You don’t have to do anything but make sure you or your child drink enough.' %}
 
 {% block content_sidebar_last %}
-  {% markdown "diarrhoea/main-content.md" %}
+  {% markdown "diarrhoea/main-content-before.md" %}
 {% endblock %}
 
 {% block sidebar %}
@@ -12,5 +12,11 @@
 {% endblock %}
 
 {% block content_sidebar_last_after %}
+  {% markdown "diarrhoea/main-content.md" %}
+  <div class="panel">
+    <div class="panel--content">
+     {% markdown "diarrhoea/panel-content.md" %}
+    </div>
+  </div>
   {% markdown "diarrhoea/main-content-after.md" %}
 {% endblock %}

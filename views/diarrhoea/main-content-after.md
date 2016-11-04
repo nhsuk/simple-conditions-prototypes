@@ -1,20 +1,3 @@
-## How long diarrhoea lasts
-
-Diarrhoea is infectious. To avoid giving it to other people you should:
-
-- stay off work for 2 days
-- keep children at home for 2 days
-- avoid swimming pools for 2 weeks
-
-## How to tell if you have diarrhoea
-
-Symptoms for adults and children include: 
-- watery or loose poos
-- stomach cramps
-- feeling sick and vomiting  
-- headache
-- no appetite
-
 Diarrhoea is usually caused by a bowel infection. Other causes can be things like a food allergy, alcohol, appendicitis. 
 
 If you’re taking any meds, check for side effects. Diarrhoea might be one of them. 

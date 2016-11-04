@@ -2,3 +2,7 @@
 
 {% set title = 'Mouth ulcers' %}
 {% set intro = 'Mouth ulcers are common and rarely a sign of anything more serious. They should clear up on their own within a week or two but can be uncomfortable to live with.' %}
+
+{% block content_sidebar_last %}
+  {% markdown "mouth-ulcers/main-content.md" %}
+{% endblock %}
