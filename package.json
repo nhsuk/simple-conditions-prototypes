@@ -21,11 +21,17 @@
     "grunt-env": "^0.4.4",
     "grunt-nodemon": "^0.4.1",
     "grunt-sass": "^1.1.0",
+    "markdown-it": "^8.1.0",
+    "markdown-it-abbr": "^1.0.4",
+    "markdown-it-attrs": "^0.8.0",
+    "markdown-it-container": "^2.0.0",
     "moment": "^2.13.0",
     "moment-timezone": "^0.5.4",
     "node-uuid": "^1.4.7",
     "nodemon": "^1.8.1",
     "normalize-scss": "^6.0.0",
+    "nunjucks": "^2.5.2",
+    "nunjucks-markdown": "^2.0.0",
     "request": "^2.72.0"
   }
 }

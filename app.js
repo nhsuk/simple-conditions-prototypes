@@ -1,5 +1,15 @@
 var express = require('express');
-var nunjucks = require('express-nunjucks');
+
+var nunjucks = require('nunjucks');
+var markdown = require('nunjucks-markdown');
+var md = require('markdown-it')({
+  html: true,
+  typographer: true,
+});
+var markdownItAbbr = require('markdown-it-abbr');
+var markdownItAttrs = require('markdown-it-attrs');
+var markdownItContainer = require('markdown-it-container');
+
 var request = require('request');
 var bodyParser = require('body-parser');
 var validator = require('express-validator');
@@ -9,8 +19,9 @@ var uuid = require('node-uuid');
 var app = express();
 
 // Application settings
+var viewsPath = __dirname + '/views';
 app.set('view engine', 'html');
-app.set('views', __dirname + '/views');
+app.set('views', viewsPath);
 
 app.use(express.static('static'));
 app.use(express.static('assets'));
@@ -24,11 +35,107 @@ app.use(function(req, res, next){
   next();
 });
 
-nunjucks.setup({
+// add custom markdown
+md.use(markdownItAbbr);
+md.use(markdownItAttrs);
+md.use(markdownItContainer, 'info', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout__info">\n';
+    }
+    return '</section>\n';
+  },
+});
+md.use(markdownItContainer, 'info_compact', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout__info callout__compact">\n';
+    }
+    return '</section>\n';
+  },
+});
+md.use(markdownItContainer, 'attention', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout__attention">\n';
+    }
+    return '</section>\n';
+  },
+});
+md.use(markdownItContainer, 'warning', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout__warning">\n';
+    }
+    return '</section>\n';
+  },
+});
+md.use(markdownItContainer, 'alert', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout__alert">\n';
+    }
+    return '</section>\n';
+  },
+});
+md.use(markdownItContainer, 'severe', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout__severe">\n';
+    }
+    return '</section>\n';
+  },
+});
+md.use(markdownItContainer, 'reveal', {
+  marker: ':',
+  validate: (params) => {
+    return params.trim().match(/^reveal\s+(.*)$/);
+  },
+  render: (tokens, idx) => {
+    const m = tokens[idx].info.trim().match(/^reveal\s+(.*)$/);
+
+    if (tokens[idx].nesting === 1) {
+      return `<details>\n<summary><span class="details--summary">${md.utils.escapeHtml(m[1])}</span></summary>\n<div>\n`;
+    }
+    return '</div>\n</details>\n';
+  },
+});
+md.use(markdownItContainer, 'inline_reveal', {
+  marker: ':',
+  validate: (params) => {
+    return params.trim().match(/^inline_reveal\s+(.*)$/);
+  },
+  render: (tokens, idx) => {
+    const m = tokens[idx].info.trim().match(/^inline_reveal\s+(.*)$/);
+
+    if (tokens[idx].nesting === 1) {
+      const summary = md.utils.escapeHtml(m[1]);
+      const cta = summary.slice(summary.indexOf('['), summary.indexOf(']') + 1);
+      const ctaHtml = cta.replace('[', '<span class="details--cta">').replace(']', '</span>');
+
+      return `<details class="details__inline">
+        <summary>
+          <span class="details--summary">${summary.replace(cta, ctaHtml)}</span>
+        </summary>
+        <div>`;
+    }
+    return '</div>\n</details>\n';
+  },
+});
+
+var nunjucksEnv = nunjucks.configure(viewsPath, {
   autoescape: true,
-  watch: true,
-  noCache: true
-}, app);
+  express: app,
+});
+markdown.register(nunjucksEnv, (body) => {
+    return md.render(body);
+  });
 
 app.use(cookieSession({
   secret: 'tborqwitno'
