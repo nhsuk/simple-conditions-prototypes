@@ -3,169 +3,20 @@
 {% set title = 'Flu' %}
 {% set intro = 'You can treat the flu without seeing your GP and you should feel better in 7 days or so.' %}
 
-<article class="panel">
-  <div class="panel--content">
-    <h2>Check if you have flu</h2>
-    <p>Flu symptoms come on very quickly and can include:</p>
-    <ul class="list__chevron">
-      <li>a sudden fever – a temperature of 38C (100.4F) or above</li>
-      <li>aching body</li>
-      <li>tiredness and irritable sleep</li>
-      <li>feeling weakness</li>
-      <li>chills</li>
-      <li>a dry, chesty cough</li>
-      <li>a headache</li>
-      <li>difficulty sleeping</li>
-      <li>loss of appetite</li>
-      <li>a sore throat</li>
-      <li>diarrhoea or abdominal (tummy) pain</li>
-      <li>nausea and vomiting</li>
-    </ul>
-  </div>
-</article>
-
-<p>The symptoms are generally the same for children although you may also notice your child is less active than usual and they may complain of a pain in their middle ear.</p>
-
-<aside>
-  <details>
-    <summary>
-      <span class="details--summary">Telling the difference between flu and colds</span>
-    </summary>
-
-    <div>
-      <p>Cold and flu symptoms are similar but the main differences are:</p>
-      <table class="panel">
-        <tr>
-          <th>Cold symptoms</th>
-          <th>Flu symptoms</th>
-        </tr>
-        <tr>
-          <td>Appear gradually</td>
-          <td>Appear quickly within xx hours or xx days</td>
-        </tr>
-        <tr>
-          <td>Affect mainly your nose and throat</td>
-          <td>Affect more than just your throat and nose, and your body will ache</td>
-        <tr>
-          <td>Make you feel unwell but you’re ok to carry on as normal - eg go to work</td>
-          <td>Make you feel too unwell to carry on as normal</td>
-        </tr>
-      </table>
+{% block content_sidebar_last %}
+  <article class="panel">
+    <div class="panel--content">
+      {% markdown "flu/panel-content.md" %}
     </div>
-  </details>
-</aside>
+  </article>
 
-<h2>How to treat flu yourself</h2>
-
-<p>You can treat/deal with flu without going to your GP, and you should feel better in about 7 days.</p>
-
-<p>To help ease flu symptoms GPs recommend:</p>
-
-<ul>
-  <li>rest and sleep</li>
-  <li>drinking plenty of water (or breastmilk for babies)</li>
-  <li>eating regular healthy meals</li>
-  <li>paracetamol and ibuprofen to help with aches and lower a temperature</li>
-</ul>
-
-<p>Even after you’re over the flu you’ll probably feel tired for a week or so.</p>
-
-<h3>When not to use paracetamol and ibuprofen</h3>
-
-<details>
-  <summary>
-    <span class="details--summary">Flu medicines for children and babies</span>
-  </summary>
-
-  <div>
-    <ul>
-      <li>paracetamol - but not for children under 2 months</li>
-      <li>ibuprofen - but not for children under 3 months, or those with asthma</li>
-      <li>aspirin - but not for children under 16</li>
-    </ul>
-    <p><strong>Always:</strong></p>
-    <ul>
-      <li>get advice from a professional before giving any medicines to children</li>
-      <li>give the lowest effective dose for the shortest possible time</li>
-      <li>read the medicine label</li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary>
-    <span class="details--summary">Flu medicine for pregnant women</span>
-  </summary>
-
-  <div>
-    <ul>
-      <li>paracetamol</li>
-      <li>ibuprofen - but it’s best only to use if your doctor tells you to</li>
-      <li>aspirin - ???</li>
-    </ul>
-    <p><strong>Always:</strong></p>
-    <ul>
-      <li>get advice from a professional before taking any medicines when pregnant</li>
-      <li>take the lowest effective dose for the shortest possible time</li>
-      <li>read the medicine label</li>
-    </ul>
-  </div>
-</details>
-
-<h2>When to see your GP</h2>
-
-<p>You can treat flu without going to your GP. you should feel better in about 7 days.</p>
-
-<div class="callout callout__attention">
-  <h3>See a GP if:</h3>
-  <ul>
-    <li>your symptoms haven't improved after 7 days</li>
-    <li>you're 65 years old or over</li>
-    <li>you're pregnant</li>
-    <li>your temperature is 38C or above</li>
-    <li>you’re concerned about your child’s symptoms</li>
-    <li>you have a long-term medical condition – for example, diabetes or a heart, lung, kidney or neurological disease</li>
-    <li>you have a weak immune system – for example, because of chemotherapy or HIV</li>
-  </ul>
-</div>
-
+  {% markdown "flu/main-content.md" %}
 {% endblock %}
 
 {% block sidebar %}
-
-<div class="callout callout__severe">
-  <h2>Call 999 or go to A&E if:</h2>
-  <ul>
-    <li>you develop chest pain, shortness of breath or difficulty breathing, or start coughing up blood</li>
-  </ul>
-</div>
-
+  {% markdown "flu/sidebar-content.md" %}
 {% endblock %}
 
 {% block content_sidebar_last_after %}
-
-<h2>How to avoid spreading the flu</h2>
-
-<p>The germs that cause flu survive on your hands and surfaces (like tables and door handles) so you should:</p>
-
-<ul>
-  <li>wash your hands with warm water and soap regularly</li>
-  <li>use tissues to trap germs when you cough or sneeze</li>
-  <li>bin used tissues as quickly as possible</li>
-</ul>
-
-<p>You’re most likely to spread the flu to other people in the first 5 days.</p>
-
-<h2>How to prevent flu</h2>
-
-<p>There is a flu vaccine that reduces the risk of catching flu and spreading it to others.</p>
-
-<p>Flu vaccinations are usually available during flu season - December to March.</p>
-
-<p><a href="">Add a flu vaccination reminder to your calendar.</a></p>
-<p><a href="">Flu: vaccination: what’s involved</a></p>
-<p><a href="">Find out if you’re eligible for a free vaccine</a></p>
-
-
-
+  {% markdown "flu/main-content-after.md" %}
 {% endblock %}
