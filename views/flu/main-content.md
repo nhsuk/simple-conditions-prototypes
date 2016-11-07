@@ -2,11 +2,11 @@ The symptoms are generally the same for children although you may also notice yo
 
 ::: reveal Telling the difference between flu and colds
   Cold and flu symptoms are similar but the main differences are:
-  | Cold symptoms     | Flu symptoms      |
-  | ----------------- | ----------------- |
-  | Appear gradually  | Appear quickly within xx hours or xx days |
-  | Affect mainly your nose and throat | Affect more than just your throat and nose, and your body will ache |
-  | Make you feel unwell but you’re ok to carry on as normal - eg go to work | Make you feel too unwell to carry on as normal |
+  Cold symptoms | Flu symptoms |
+  --- | ---
+  Appear gradually | Appear quickly within xx hours or xx days
+  Affect mainly your nose and throat | Affect more than just your throat and nose, and your body will ache
+  Make you feel unwell but you’re ok to carry on as normal - eg go to work | Make you feel too unwell to carry on as normal
 :::
 
 ## How to treat flu yourself
@@ -25,23 +25,31 @@ Even after you’re over the flu you’ll probably feel tired for a week or so.
 ### When not to use paracetamol and ibuprofen
 
 ::: reveal Flu medicines for children and babies
+  !!! info
   * paracetamol - but not for children under 2 months
   * ibuprofen - but not for children under 3 months, or those with asthma
   * aspirin - but not for children under 16
+
   **Always:**
+
   * get advice from a professional before giving any medicines to children
   * give the lowest effective dose for the shortest possible time
   * read the medicine label
+  !!!
 :::
 
 ::: reveal Flu medicine for pregnant women
+  !!! info
   * paracetamol
   * ibuprofen - but it’s best only to use if your doctor tells you to
   * aspirin - ???
+  
   **Always:**
+  
   * get advice from a professional before taking any medicines when pregnant
   * take the lowest effective dose for the shortest possible time
   * read the medicine label
+  !!!
 :::
 
 ## When to see your GP
