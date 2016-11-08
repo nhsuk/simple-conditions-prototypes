@@ -256,16 +256,16 @@ dl {
   margin-top: 8px;
 }
 
-.list__chevron {
+.list--chevron {
   list-style: none;
   padding-left: 32px;
 }
 
-.list__chevron li {
+.list--chevron li {
   position: relative;
 }
 
-.list__chevron li:before, .list__chevron li:after {
+.list--chevron li:before, .list--chevron li:after {
   border-style: solid;
   content: "";
   display: block;
@@ -275,40 +275,40 @@ dl {
   width: 0;
 }
 
-.list__chevron li:before {
+.list--chevron li:before {
   border-color: transparent transparent transparent #425563;
   border-width: 10px 0 10px 10px;
   left: -32px;
 }
 
-.callout__warning .list__chevron li:before {
+.callout--warning .list--chevron li:before {
   border-left-color: #000;
 }
 
-.callout__severe .list__chevron li:before {
+.callout--severe .list--chevron li:before {
   border-left-color: #fff;
 }
 
-.list__chevron li:after {
+.list--chevron li:after {
   border-color: transparent transparent transparent #fff;
   border-width: 10px 0 10px 10px;
   left: -38px;
 }
 
-.callout__info .list__chevron li:after,
-.panel .list__chevron li:after {
+.callout--info .list--chevron li:after,
+.panel .list--chevron li:after {
   border-left-color: #eff1f2;
 }
 
-.callout__warning .list__chevron li:after {
+.callout--warning .list--chevron li:after {
   border-left-color: #ffc649;
 }
 
-.callout__alert .list__chevron li:after {
+.callout--alert .list--chevron li:after {
   border-left-color: #fbe8e6;
 }
 
-.callout__severe .list__chevron li:after {
+.callout--severe .list--chevron li:after {
   border-left-color: #d81e05;
 }
 
@@ -332,23 +332,23 @@ a:focus {
   outline: 3px solid #ffb81c;
 }
 
-.link__reverse-polarity:link {
+.link--reverse-polarity:link {
   color: #fff;
 }
 
-.link__reverse-polarity:visited {
+.link--reverse-polarity:visited {
   color: #fff;
 }
 
-.link__reverse-polarity:hover {
+.link--reverse-polarity:hover {
   color: #d4efff;
 }
 
-.link__reverse-polarity:active {
+.link--reverse-polarity:active {
   color: #d4efff;
 }
 
-.link__reverse-polarity:focus {
+.link--reverse-polarity:focus {
   outline: 3px solid #ffb81c;
 }
 
