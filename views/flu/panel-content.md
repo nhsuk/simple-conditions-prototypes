@@ -14,4 +14,4 @@ Flu symptoms come on very quickly and can include:
 - a sore throat
 - diarrhoea or abdominal (tummy) pain
 - nausea and vomitings
-{.list__chevron}
+{.list--chevron}

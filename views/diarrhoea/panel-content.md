@@ -5,4 +5,4 @@ Symptoms for adults and children include:
 - feeling sick and vomiting  
 - headache
 - no appetite
-{.list__chevron}
+{.list--chevron}
