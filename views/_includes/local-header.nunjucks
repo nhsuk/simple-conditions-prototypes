@@ -22,6 +22,15 @@
       {% if intro %}
         <p>{{ intro }}</p>
       {% endif %}
+      
+      {% if link_list %}
+        <ul class="link-list">
+        {% for item, href in link_list %}
+          <li class="link-list__item"><a class="link--reverse-polarity" href="{{ href }}">{{ item }}</a></li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+
     </div>
   {% endif %}
 </div>

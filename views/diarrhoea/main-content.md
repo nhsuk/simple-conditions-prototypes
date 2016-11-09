@@ -1,0 +1,113 @@
+## Adults: treating diarrhoea at home {id=adults}
+
+Diarrhoea will go away on its own. It’s important to drink enough fluids to [avoid dehydration](#).
+
+### Taking medicine for diarrhoea
+
+You can take medicines like [Immodium](#) to help reduce the diarrhoea slightly and shorten it. However, you don’t have to take these and they won’t cure your diarrhoea.
+
+Drink small sips of things like water mixed with juice and soup broth to make sure you get enough salt and sugar. 
+
+[Your pharmacist can tell you what to take](#) if you want to take something for your diarrhoea.
+
+!!! attention
+  ## See your GP if:
+  - have blood in your poo
+  - your poo is dark or black – this can be a sign of stomach bleeding
+  - your poo smells bad
+  - it’s very painful to poo
+  - keep vomiting
+  - diarrhoea doesn’t go away after 4 days
+  - notice that you lost a lot of weight 
+  - have [signs of dehydration](XXX)
+  - have recently taken antibiotics or been treated in hospital
+  <hr>
+  
+  Diarrhoea is infectious so phone your GP and ask if you should come in.
+!!!
+
+## Babies and toddlers: treating diarrhoea {id=babies}
+
+### Do 
+
+- give them enough to drink in small sips - they [dehydrate very quickly](#)
+- monitor them closely and [take them to the GP](#) or [take them to A&E](#) if necessary
+- you can give them liquid paracetamol or ibuprofen to ease the pain
+{.list--check}
+
+### Don't
+
+- give them medicines to stop the diarrhoea, for example Immodium
+- give children under 16 aspirin
+- give them fruit juice and fizzy drinks
+{.list--cross}
+
+!!! attention
+  ## See a GP if your baby or child:
+
+  - had 6 or more bouts of diarrhoea in the past 24 hours
+  - vomited more than 3 times in the past 24 hours
+  - has watery or bloody poo
+  - shows [signs of dehydration](XXX)
+  - has severe stomach ache or one that doesn’t stop
+  - still has diarrhoea after 5 to 7 days
+  <hr>
+  
+  Diarrhoea is infectious so phone your GP and ask if you should come in.
+!!!
+
+!!! alert
+ ## See a GP urgently or go to A&E if your baby or child:
+ - has a temperature over 38C (under 3 months), over 39C (3 to 6 months)
+ - has blood or mucus in their poo
+ - has severe abdominal pain
+ - is getting worse quickly
+!!!
+
+## How long diarrhoea lasts {id=length}
+
+Diarrhoea is infectious. To avoid giving it to other people you should:
+
+- stay off work for 2 days
+- keep children at home for 2 days
+- avoid swimming pools for 2 weeks
+
+<div class="panel" id="symptoms">
+  <div class="panel__content">
+    <h2>How to tell if you have diarrhoea</h2>
+    <ul class="list--chevron">Symptoms for adults and children include: 
+    <li>watery or loose poos</li> 
+    <li>stomach cramps</li> 
+    <li>feeling sick and vomiting</li>   
+    <li>headache</li> 
+    <li>no appetite</li> 
+  </ul>
+  </div>
+</div>
+
+Diarrhoea is usually caused by a bowel infection. Other causes can be things like a food allergy, alcohol, appendicitis. 
+
+If you’re taking any meds, check for side effects. Diarrhoea might be one of them. 
+
+There are certain conditions where diarrhoea is a symptom. For example:
+
+- [irritable bowel symptom](#)
+- [Crohn’s disease](#)
+- [ulcerative colitis](#)
+- [coeliac disease](#)
+- [diverticular disease](#)
+- [bowel cancer](#)
+- [stomach cancer](#)
+
+## Preventing diarrhoea  {id=prevention}
+You can’t really prevent diarrhoea or getting it again. However, good [food hygiene](#) helps making the risk of getting it smaller. 
+
+### While you have it you should: 
+- wash your hands well every time you’ve been to the toilet  
+- clean the toilet after you’ve gone
+- not share towels and things you put in your mouth like cutlery
+- wash soiled clothes or bed linen at 60 degrees or higher
+
+As part of their [routine childhood vaccination](#) children are vaccinated against the rotavirus virus which causes diarrhoea. 
+
+There are things you can do to help [prevent diarrhoea when you travel](http://travelhealthpro.org.uk/countries).
