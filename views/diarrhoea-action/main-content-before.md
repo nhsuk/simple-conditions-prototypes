@@ -1,7 +1,5 @@
 ## Treating diarrhoea at home
 
-There’s no need to do anything.
-
 Diarrhoea will go away on its own after about 2 to 4 days. For babies and children this can take 5 to 7 days. 
 
 !!! info
