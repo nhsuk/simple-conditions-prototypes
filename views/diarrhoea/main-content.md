@@ -1,4 +1,4 @@
-## Adults: treating diarrhoea at home
+## Adults: treating diarrhoea at home {id=adults}
 
 Diarrhoea will go away on its own. It’s important to drink enough fluids to [avoid dehydration](#).
 
@@ -26,7 +26,7 @@ Drink small sips of things like water mixed with juice and soup broth to make su
   Diarrhoea is infectious so phone your GP and ask if you should come in.
 !!!
 
-## Babies and toddlers: treating diarrhoea
+## Babies and toddlers: treating diarrhoea {id=babies}
 
 ### Do 
 
@@ -64,7 +64,7 @@ Drink small sips of things like water mixed with juice and soup broth to make su
  - is getting worse quickly
 !!!
 
-## How long diarrhoea lasts
+## How long diarrhoea lasts {id=length}
 
 Diarrhoea is infectious. To avoid giving it to other people you should:
 
@@ -72,7 +72,7 @@ Diarrhoea is infectious. To avoid giving it to other people you should:
 - keep children at home for 2 days
 - avoid swimming pools for 2 weeks
 
-<div class="panel">
+<div class="panel" id="symptoms">
   <div class="panel__content">
     <h2>How to tell if you have diarrhoea</h2>
     <ul class="list--chevron">Symptoms for adults and children include: 
@@ -99,7 +99,7 @@ There are certain conditions where diarrhoea is a symptom. For example:
 - [bowel cancer](#)
 - [stomach cancer](#)
 
-## Preventing diarrhoea
+## Preventing diarrhoea  {id=prevention}
 You can’t really prevent diarrhoea or getting it again. However, good [food hygiene](#) helps making the risk of getting it smaller. 
 
 ### While you have it you should: 
