@@ -74,6 +74,15 @@ md.use(markdownItContainer, 'warning', {
     return '</section>\n';
   },
 });
+md.use(markdownItContainer, 'warning_compact', {
+  marker: '!',
+  render: (tokens, idx) => {
+    if (tokens[idx].nesting === 1) {
+      return '<section class="callout callout--warning callout--compact">\n';
+    }
+    return '</section>\n';
+  },
+});
 md.use(markdownItContainer, 'alert', {
   marker: '!',
   render: (tokens, idx) => {
