@@ -612,21 +612,32 @@ dl {
   margin-top: 8px;
 }
 
-.list--chevron {
+.list--chevron,
+.list--check,
+.list--cross {
   list-style: none;
   padding-left: 32px;
 }
 
-.list--chevron li {
+.list--chevron li,
+.list--check li,
+.list--cross li {
   position: relative;
+}
+
+.list--chevron li:before, .list--chevron li:after,
+.list--check li:before,
+.list--check li:after,
+.list--cross li:before,
+.list--cross li:after {
+  content: "";
+  position: absolute;
+  display: block;
 }
 
 .list--chevron li:before, .list--chevron li:after {
   border-style: solid;
-  content: "";
-  display: block;
   height: 0;
-  position: absolute;
   top: 6px;
   width: 0;
 }
@@ -666,6 +677,34 @@ dl {
 
 .callout--severe .list--chevron li:after {
   border-left-color: #d81e05;
+}
+
+.list--check {
+  padding-left: 48px;
+  border-left: 4px solid #eff1f2;
+}
+
+.list--check li:before {
+  background: url("../images/check@2x.png") no-repeat;
+  background-size: contain;
+  height: 16px;
+  top: 8px;
+  left: -34px;
+  width: 20px;
+}
+
+.list--cross {
+  padding-left: 48px;
+  border-left: 4px solid #eff1f2;
+}
+
+.list--cross li:before {
+  background: url("../images/cross@2x.png") no-repeat;
+  background-size: contain;
+  height: 16px;
+  top: 8px;
+  left: -32px;
+  width: 16px;
 }
 
 a:link {
