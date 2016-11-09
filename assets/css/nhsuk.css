@@ -1,32 +1,5 @@
 @charset "UTF-8";
-@font-face {
-  font-family: "FS Me";
-  src: url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Light.eot?") format("eot"), url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Light.woff") format("woff");
-  font-weight: 200;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "FS Me";
-  src: url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Regular.eot?") format("eot"), url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Regular.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "FS Me";
-  src: url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Bold.eot?") format("eot"), url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Bold.woff") format("woff");
-  font-weight: 600;
-  font-style: bold;
-}
-
-@font-face {
-  font-family: "FS Me";
-  src: url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Heavy.eot?") format("eot"), url("/* @echo FONT_CDN_PATH */assets/fonts/fsme/FSMeWeb-Heavy.woff") format("woff");
-  font-weight: 800;
-  font-style: bold;
-}
-
+@import url("https://fast.fonts.net/cssapi/0985eb4d-eec4-488b-baa4-22fe85c5ce32.css");
 .page-section, .global-header__inner, .global-footer__inner, .local-header, .notification-banner__inner, .skiplinks__inner {
   margin: 0 16px;
   max-width: 960px;
@@ -122,7 +95,7 @@ hr {
 }
 
 html, body, button, input, table, td, th {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
 }
 
 html {
@@ -134,7 +107,7 @@ body {
 }
 
 .button {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 32px;
@@ -206,7 +179,7 @@ details {
 }
 
 details summary {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -308,7 +281,7 @@ body:not(:-moz-handler-blocked) fieldset {
 }
 
 legend {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -337,7 +310,7 @@ legend + * {
 }
 
 textarea {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -373,7 +346,7 @@ img {
 }
 
 h1 {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 40px;
   font-weight: 600;
   line-height: 48px;
@@ -389,13 +362,13 @@ h1 {
 
 @media (min-width: 925px) {
   h1 {
-    font-size: 64px;
+    font-size: 56px;
     line-height: 80px;
   }
 }
 
 h2 {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 28px;
   font-weight: 600;
   line-height: 40px;
@@ -417,7 +390,7 @@ h2 {
 }
 
 h3 {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 24px;
   font-weight: 600;
   line-height: 32px;
@@ -439,7 +412,7 @@ h3 {
 }
 
 h4 {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 32px;
@@ -461,7 +434,7 @@ h4 {
 }
 
 h5 {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -483,7 +456,7 @@ h5 {
 }
 
 h6 {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -521,7 +494,7 @@ hr {
 }
 
 ul {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -545,7 +518,7 @@ ul {
 }
 
 ol {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -573,7 +546,7 @@ ol li {
 }
 
 dl {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -748,7 +721,7 @@ a:focus {
 }
 
 p {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -778,7 +751,7 @@ table {
 
 table th,
 table td {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -805,7 +778,7 @@ table td {
 }
 
 table th {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -1041,7 +1014,7 @@ strong {
 }
 
 .article-pagination__prefix {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -1201,7 +1174,7 @@ strong {
 }
 
 .global-footer * {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -1290,7 +1263,7 @@ strong {
 }
 
 .form-label--large {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 28px;
   font-weight: 600;
   line-height: 40px;
@@ -1409,7 +1382,7 @@ strong {
 }
 
 .local-header__title {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 28px;
   font-weight: 600;
   line-height: 40px;
@@ -1469,7 +1442,7 @@ strong {
 }
 
 .notification-banner * {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -1582,7 +1555,7 @@ strong {
 }
 
 .section-unit__prefix {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -1617,7 +1590,7 @@ strong {
 }
 
 .selection-button {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
@@ -1768,7 +1741,7 @@ strong {
 }
 
 .step-list {
-  font-family: "FS Me", Arial, sans-serif;
+  font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -1902,6 +1875,182 @@ strong {
 
 .js-enabled .js-tabs-content > div.is-active {
   display: block;
+}
+
+.font-small {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .font-small {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: 925px) {
+  .font-small {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.font-medium {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .font-medium {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+@media (min-width: 925px) {
+  .font-medium {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+.font-large {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 40px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .font-large {
+    font-size: 32px;
+    line-height: 48px;
+  }
+}
+
+@media (min-width: 925px) {
+  .font-large {
+    font-size: 36px;
+    line-height: 48px;
+  }
+}
+
+.font-xlarge {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .font-xlarge {
+    font-size: 48px;
+    line-height: 64px;
+  }
+}
+
+@media (min-width: 925px) {
+  .font-xlarge {
+    font-size: 56px;
+    line-height: 80px;
+  }
+}
+
+.bold-small {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .bold-small {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: 925px) {
+  .bold-small {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.bold-medium {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .bold-medium {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+@media (min-width: 925px) {
+  .bold-medium {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+.bold-large {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 40px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .bold-large {
+    font-size: 32px;
+    line-height: 48px;
+  }
+}
+
+@media (min-width: 925px) {
+  .bold-large {
+    font-size: 36px;
+    line-height: 48px;
+  }
+}
+
+.bold-xlarge {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  .bold-xlarge {
+    font-size: 48px;
+    line-height: 64px;
+  }
+}
+
+@media (min-width: 925px) {
+  .bold-xlarge {
+    font-size: 56px;
+    line-height: 80px;
+  }
 }
 
 /*# sourceMappingURL=nhsuk.css.map */
