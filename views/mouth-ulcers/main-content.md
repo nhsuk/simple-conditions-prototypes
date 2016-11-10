@@ -13,6 +13,7 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoiding things that 
 - stick to softer foods - such as milk, yoghurt and mashed potato
 - get regular dental check-ups
 - eat a healthy, balanced diet
+{.list--check}
 
 ### Don’t:
 
@@ -21,6 +22,7 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoiding things that 
 - drink very hot or acidic drinks - such as coffee, fruit juice or fizzy drinks
 - use chewing gum
 - use toothpaste containing sodium lauryl sulphate
+{.list--cross}
 
 A saltwater mouthwash can help to soothe pain and prevent infection. Dissolve half a teaspoon of table salt in a glass of warm water and rinse your mouth out regularly, but don’t swallow it.
 
