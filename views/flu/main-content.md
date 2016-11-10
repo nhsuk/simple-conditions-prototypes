@@ -2,11 +2,11 @@ The symptoms are generally the same for children although you may also notice yo
 
 ::: reveal Telling the difference between flu and colds
   Cold and flu symptoms are similar but flu tends to be more severe:
-  Cold symptoms | Flu symptoms |
+  Flu symptoms | Cold symptoms |
   --- | ---
-  Appear gradually | Appear quickly within xx hours or xx days
-  Affect mainly your nose and throat | Affect more than just your throat and nose, and your body will ache
-  Make you feel unwell but you’re ok to carry on as normal - eg go to work | Make you feel too unwell or exhausted and unable to carry on as normal
+  Appear quickly within a few hours | Appear gradually
+  Affect more than just your throat and nose | Affect mainly your nose and throat 
+  Make you feel exhausted and too unwell to carry on as normal | Make you feel unwell but you’re ok to carry on as normal - eg go to work
 :::
 
 ## Treating flu at home
