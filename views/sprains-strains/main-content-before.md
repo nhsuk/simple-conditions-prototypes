@@ -1,3 +1,14 @@
+<article class="panel">
+  <div class="panel__content">
+    <h2>When it’s sprain or a strain</h2>
+    <ul class="list--chevron">
+      <li>have pain or tenderness around your ankle, foot, wrist, thumb, leg or back<li>
+      <li>the injury is swollen and may be bruised</li>
+      <li>you can’t put weight on the joint or use it normally</li>
+    </ul>
+  </div>
+</article>
+
 Sprains and strains happen when you overstretch or twist a muscle.  This is often due to playing sport or doing exercise. They are common in the ankles and knees. 
 
 ## How to treat sprains and strains at home
@@ -17,7 +28,7 @@ Take painkillers such as paracetamol if you have pain.  You can also use NSAID  
 
 NSAID tablets can help to reduce swelling.  Take them 48hrs after your injury because that can delay healing if taken too soon. 
 
-!!! info
+!!! info_compact
   [Find a pharmacy](#) 
 !!!
 
@@ -34,9 +45,9 @@ More severe sprains and strains can take several months to get back to normal.
   - you’re in pain and can’t put weight on the injured joint 
   - you can’t move the joint or muscle
   - the injury is numb, discoloured or cold to touch
+  <hr>
+  
+  You can also [go to a minor injuries unit (MIU)](#) 
 !!!
-
-You can also go to your minor injuries unit (MIU) 
-[Go to a minor injuries unit (MIU) or see a GP]
 
 You may be prescribed stronger painkillers, exercises or given crutches.

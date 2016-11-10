@@ -17,7 +17,7 @@
       <li>nausea and vomiting</li>
     </ul>
   </div>
-  <div class="panel__footer"><h2 class="bold-medium">Staying at home is the best cure for the Flu.</h2></div>
+  <div class="panel__footer"><h2 class="bold-medium">Staying at home is the best cure for the flu</h2></div>
 </article>
   
 The symptoms are generally the same for children although you may also notice your child is less active than usual and they may complain of a pain in their middle ear.
