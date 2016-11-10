@@ -1,18 +1,15 @@
-{% extends '_layouts/content-sidebar-last.nunjucks' %}
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
 
 {% set title = 'Sprains and strains' %}
 {% set intro = 'Sprains and strains are common injuries affecting the muscles and ligaments. Most can be treated at home without seeing a GP.' %}
 
-{% block content_sidebar_last %}
-  <article class="panel">
-    <div class="panel__content">
-      {% markdown "sprains-strains/panel-content.md" %}
-    </div>
-  </article>
-
-  {% markdown "sprains-strains/main-content.md" %}
+{% block content_sidebar_flow_before %}
+  {% markdown "sprains-strains/main-content-before.md" %}
 {% endblock %}
 
 {% block sidebar %}
   {% markdown "sprains-strains/sidebar-content.md" %}
+{% endblock %}
+
+{% block content_sidebar_flow_after %}
 {% endblock %}

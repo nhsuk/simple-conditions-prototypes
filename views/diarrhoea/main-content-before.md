@@ -64,6 +64,8 @@ Drink small sips of things like water mixed with juice and soup broth to make su
  - is getting worse quickly
 !!!
 
+<hr>
+
 ## How long diarrhoea lasts {id=length}
 
 Diarrhoea is infectious. To avoid giving it to other people you should:
@@ -75,13 +77,14 @@ Diarrhoea is infectious. To avoid giving it to other people you should:
 <div class="panel" id="symptoms">
   <div class="panel__content">
     <h2>How to tell if you have diarrhoea</h2>
-    <ul class="list--chevron">Symptoms for adults and children include: 
-    <li>watery or loose poos</li> 
-    <li>stomach cramps</li> 
-    <li>feeling sick and vomiting</li>   
-    <li>headache</li> 
-    <li>no appetite</li> 
-  </ul>
+    <p>Symptoms for adults and children include:</p> 
+    <ul class="list--chevron">
+      <li>watery or loose poos</li> 
+      <li>stomach cramps</li> 
+      <li>feeling sick and vomiting</li>   
+      <li>headache</li> 
+      <li>no appetite</li> 
+    </ul>
   </div>
 </div>
 

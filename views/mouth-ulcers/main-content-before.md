@@ -26,7 +26,7 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoiding things that 
 
 A saltwater mouthwash can help to soothe pain and prevent infection. Dissolve half a teaspoon of table salt in a glass of warm water and rinse your mouth out regularly, but don’t swallow it.
 
-!!! info
+!!! info_compact
   If you’re still in pain, [speak to your pharmacist](#).
 !!!
 
@@ -40,7 +40,7 @@ They may suggest:
 These can be bought without a prescription but don’t always work.
 
 !!! attention
-  ### See a dentist or GP if your mouth ulcer:
+  ## See a dentist or GP if your mouth ulcer:
   - lasts longer than three weeks
   - keeps coming back
   - becomes more painful and red - this may be a sign of a bacterial infection, particularly if you also have a fever

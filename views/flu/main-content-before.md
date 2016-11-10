@@ -1,3 +1,25 @@
+<article class="panel">
+  <div class="panel__content">
+    <h2>Check if you have flu</h2>
+    <p>Flu symptoms come on very quickly and can include:</p>
+    <ul class="chevron">
+      <li>a sudden fever – a temperature of 38C (100.4F) or above</li>
+      <li>aching body</li>
+      <li>tiredness and irritable sleep</li>
+      <li>feeling weakness</li>
+      <li>chills</li>
+      <li>a dry, chesty cough</li>
+      <li>a headache</li>
+      <li>difficulty sleeping</li>
+      <li>loss of appetite</li>
+      <li>a sore throat</li>
+      <li>diarrhoea or abdominal (tummy) pain</li>
+      <li>nausea and vomiting</li>
+    </ul>
+  </div>
+  <div class="panel__footer"><h2 class="bold-medium">Staying at home is the best cure for the flu</h2></div>
+</article>
+  
 The symptoms are generally the same for children although you may also notice your child is less active than usual and they may complain of a pain in their middle ear.
 
 ::: reveal Telling the difference between flu and colds

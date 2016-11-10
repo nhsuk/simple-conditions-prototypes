@@ -1,24 +1,16 @@
-{% extends '_layouts/content-sidebar-last.nunjucks' %}
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
 
 {% set title = 'Flu' %}
 {% set intro = 'You can treat the flu without seeing your GP and you should feel better in 7 days or so.' %}
 
-{% block content_sidebar_last %}
-  <article class="panel">
-    <div class="panel__content">
-      {% markdown "flu/panel-content.md" %}
-    </div>
-    <div class="panel__footer"><h2 class="bold-medium">Staying at home is the best cure for the Flu.</h2></div>
-  </article>
-
-  {% markdown "flu/main-content.md" %}
+{% block content_sidebar_flow_before %}
+  {% markdown "flu/main-content-before.md" %}
 {% endblock %}
 
 {% block sidebar %}
   {% markdown "flu/sidebar-content.md" %}
 {% endblock %}
 
-{% block content_sidebar_last_after %}
+{% block content_sidebar_flow_after %}
   {% markdown "flu/main-content-after.md" %}
 {% endblock %}
-
