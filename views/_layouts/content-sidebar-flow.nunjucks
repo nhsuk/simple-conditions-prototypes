@@ -14,13 +14,17 @@
         {% block sidebar %}{% endblock %}
       </div>
     </div>
-  </div>
-    
+  </div>  
+  
+  {% if break %}
+    <div class="grid-row">
+      {% block content_sidebar_flow_break %}{% endblock %}
+    </div>
+  {% endif %}
+  
   <div class="grid-row">
-    <div class="column--two-thirds">
-      <div class="reading-width">
-        {% block content_sidebar_flow_after %}{% endblock %}
-      </div>
+    <div class="reading-width">
+      {% block content_sidebar_flow_after %}{% endblock %}
     </div>
   </div>
   
