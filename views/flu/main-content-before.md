@@ -59,5 +59,5 @@ You can get medicine advice from a pharmacist. Like a GP, they can explain which
   * you have a weak immune system – for example, because of [chemotherapy](http://www.nhs.uk/conditions/Chemotherapy/Pages/Definition.aspx) or [HIV](http://www.nhs.uk/Conditions/HIV/Pages/Introduction.aspx)
   <hr>
   
-  It's easy to spread flu. Call your GP and check before going in.
+  It's easy to spread flu. Phone your GP and check before going in.
 !!!
