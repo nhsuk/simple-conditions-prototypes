@@ -17,9 +17,7 @@
   </div>  
   
   {% if break %}
-    <div class="grid-row">
-      {% block content_sidebar_flow_break %}{% endblock %}
-    </div>
+    {% block content_sidebar_flow_break %}{% endblock %}
   {% endif %}
   
   <div class="grid-row">

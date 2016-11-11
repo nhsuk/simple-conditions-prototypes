@@ -1,5 +1,3 @@
-Mouth ulcers usually appear inside the mouth on the cheeks, tongue or lips. You may have more than one ulcer at a time and they can change size.
-
 Mouth ulcers aren’t contagious. They shouldn't be confused with [cold sores](http://www.nhs.uk/Conditions/Cold-sore/Pages/Introduction.aspx), which appear on the outside of the lips or around the mouth.
 
 If you have several mouth ulcers, this can be a symptom of:
