@@ -6,6 +6,9 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoid things that irr
 - reduce pain
 - prevent it returning
 
+
+A saltwater mouthwash may help to soothe the pain. Dissolve half a teaspoon of table salt in a glass of warm water and rinse your mouth out, but don’t swallow it.
+
 <section class="panel panel--binary">
   <article class="panel__column">
     <div class="panel__header">
@@ -15,7 +18,7 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoid things that irr
       <ul class="list--check">
         <li>use a soft-bristled toothbrush</li>
         <li>drink cool drinks through a straw</li>
-        <li>stick to softer foods - such as milk, yoghurt and mashed potato</li>
+        <li>stick to softer foods</li>
         <li>get regular dental check-ups</li>
         <li>eat a healthy, balanced diet</li>
       </ul>
@@ -27,9 +30,9 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoid things that irr
     </div>
     <div class="panel__content">
       <ul class="list--cross">
-        <li>eat very spicy, salty or acidic food - such as curries, salted peanuts or citrus fruits</li>
-        <li>eat hard, crunchy food - such as toast, crisps or sweets</li>
-        <li>drink very hot or acidic drinks - such as coffee, fruit juice or fizzy drinks</li>
+        <li>eat very spicy, salty or acidic food</li>
+        <li>eat hard, crunchy food - such as toast or crisps</li>
+        <li>drink very hot or acidic drinks - such as fruit juice</li>
         <li>use chewing gum</li>
         <li>use toothpaste containing sodium lauryl sulphate</li>
       </ul>
@@ -37,10 +40,8 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoid things that irr
   </article>
 </section>
 
-A saltwater mouthwash may help to soothe the pain. Dissolve half a teaspoon of table salt in a glass of warm water and rinse your mouth out, but don’t swallow it.
-
 !!! info_compact
-  If you’re still in pain, [speak to your pharmacist](#).
+  If you’re still in pain, [speak to your pharmacist](https://beta.nhs.uk/finders/find-help).
 !!!
 
 ## How your pharmacist can help
