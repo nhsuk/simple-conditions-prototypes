@@ -31,15 +31,15 @@ The symptoms are similar for children but they can get a pain in their ear and a
       </tr>
       <tr>
         <td>Appears gradually</td>
-        <td>Appears quickly within xx hours or xx days</td>
+        <td>Appears quickly within a few hours</td>
       </tr>
       <tr>
         <td>Affects mainly your nose and throat</td>
-        <td>Affects more than just your throat and nose, and your body will ache</td>
+        <td>Affects more than just your throat and nose</td>
       </tr>
       <tr>
         <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
-        <td>Makes you feel too unwell or exhausted and unable to carry on as normal</td>
+        <td>Makes you feel exhausted and too unwell to carry on as normal</td>
       </tr>
     </table>
   </div>
