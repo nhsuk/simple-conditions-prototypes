@@ -21,11 +21,53 @@ The symptoms are similar for children but they can get a pain in their ear and a
 
 ::: reveal Telling the difference between cold and flu
   Cold and flu symptoms are similar but flu tends to be more severe:
-  Cold symptoms | Flu symptoms |
-  --- | ---
-  Appear gradually | Appear quickly within a few hours 
-  Affect mainly your nose and throat | Affect more than just your nose and throat
-  Make you feel unwell but you’re ok to carry on as normal – eg go to work | Make you feel exhausted and too unwell to carry on as normal
+  <section class="panel panel--binary">
+    <article class="panel__column">
+      <div class="panel__header">
+        <h4>Cold symptoms</h4>
+      </div>
+      <div class="panel__content">
+        <ul>
+          <li>Appear gradually</li>
+          <li>Affect mainly your nose and throat</li>
+          <li>Make you feel unwell but you’re ok to carry on as normal - eg go to work</li>
+        </ul>
+      </div>
+    </article>
+    <article class="panel__column">
+      <div class="panel__header">
+        <h4>Flu symptoms</h4>
+      </div>
+      <div class="panel__content">
+        <ul>
+          <li>Appear quickly within xx hours or xx days</li>
+          <li>Affect more than just your throat and nose, and your body will ache</li>
+          <li>Make you feel too unwell or exhausted and unable to carry on as normal</li>
+        </ul>
+      </div>
+    </article>
+  </section>
+  
+  <div class="table--horizontal-scroll">
+    <table class="panel panel--binary">
+      <tr>
+        <th>Cold symptoms</th>
+        <th>Flu symptoms</th>
+      </tr>
+      <tr>
+        <td>Appear gradually</td>
+        <td>Appear quickly within xx hours or xx days</td>
+      </tr>
+      <tr>
+        <td>Affect mainly your nose and throat</td>
+        <td>Affect more than just your throat and nose, and your body will ache</td>
+      </tr>
+      <tr>
+        <td>Make you feel unwell but you’re ok to carry on as normal - eg go to work</td>
+        <td>Make you feel too unwell or exhausted and unable to carry on as normal</td>
+      </tr>
+    </table>
+  </div>
 :::
 
 ## Treating flu at home
