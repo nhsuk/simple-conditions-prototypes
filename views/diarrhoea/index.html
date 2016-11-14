@@ -2,7 +2,9 @@
 
 {% set title = 'Diarrhoea' %}
 {% set intro = 'Usually diarrhoea goes away on it’s own within a few days. Make sure you or your child drink plenty of fluids.' %}
-{% set link_list = { 'Adults: treating diarrhoea at home': '#adults', 'Babies and toddlers: treating diarrhoea': '#babies', 'How long it lasts': '#length', 'Check if you have diarrhoea': '#symtoms', 'Preventing diarrhoea': '#prevention' } %}
+{% set link_list = { 'Treating diarrhoea at home': '#adults',  'When to see a GP': '#gp', 'Babies and toddlers: treating diarrhoea': '#babies', 'When to take your baby or toddler to a GP': '#gp-babies', 'How long it lasts': '#length', 'Check if you have diarrhoea': '#symptoms', 'What causes diarrhoea': '#causes', 'Preventing diarrhoea': '#prevention' } %}
+{% set nonEmergencyCallout = 'true' %}
+
 
 {% block content_sidebar_flow_before %}
   {% markdown "diarrhoea/main-content-before.md" %}
