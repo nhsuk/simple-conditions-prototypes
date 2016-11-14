@@ -83,7 +83,7 @@ You can treat your baby or toddler at home. It’s very important to make sure t
   - still has diarrhoea after 5 to 7 days
   <hr>
   
-  Diarrhoea is infectious so phone your GP and ask if you should come in.
+  Diarrhoea can be infectious so phone your GP and ask if you should come in.
 !!!
 
 !!! alert
