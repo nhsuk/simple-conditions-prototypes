@@ -1,28 +1,28 @@
 ## Treating diarrhoea at home {id=adults}
 
-Diarrhoea will go away on its own after a few days. 
+Diarrhoea will go away on its own after a few days.  It’s normal to have stomach cramps and headaches.
 
-It’s important to drink enough fluids to [avoid dehydration](#). Your pee should be light yellow or clear.
+It’s important to drink enough fluids to [avoid dehydration](http://www.nhs.uk/Conditions/dehydration/Pages/Introduction.aspx). Your pee should be light yellow or clear.
 
-Drink small sips of things like water mixed with juice and soup broth to make sure you get enough salt and sugar. 
+Drink small sips of things like water mixed with juice and soup broth to make sure you get enough salt and sugar. As soon as you’re able to eat things like potatoes, rice, bananas, soup, and boiled vegetables.
+
+### Frail or elderly people with diarrhoea
 
 Frail or elderly people can dehydrate more easily. You can get sachets at the pharmacy that contain salt, sugar and important minerals. Mix them with water to help you keep hydrated. These are called oral rehydration solutions.
 
-As soon as you’re able to eat things like potatoes, rice, bananas, soup, and boiled vegetables.
-
-### Taking medicine for diarrhoea
+### How a pharmacist can help with diarrhoea  
 
 You can take medicines to help reduce the diarrhoea slightly and shorten it. However, you don’t have to take these and they won’t cure your diarrhoea.
 
 Describe your symptoms to your pharmacist. They can recommend the best medicine for you.
 
+Painkillers like paracetamol or ibuprofen can help with headaches and fevers. 
+
+Don’t give aspirin to children under 16.
+
 !!! info_compact
   [Find your nearest pharmacist](https://beta.nhs.uk/finders/find-help)
 !!!
-
-Painkillers like [paracetamol](#) or [ibuprofen](#) can help with headaches and fevers. 
-
-Don’t give aspirin to children under 16.
 
 !!! attention
   ## See your GP if: {id=gp}
@@ -37,25 +37,39 @@ Don’t give aspirin to children under 16.
   - you have recently taken antibiotics or been treated in hospital
   <hr>
   
-  Diarrhoea is infectious. Phone your GP and check if you should come in.
+  Diarrhoea can be infectious. Phone your GP and check if you should come in.
 !!!
 
-## Babies and toddlers: treating diarrhoea {id=babies}
+## Babies and toddlers: treating diarrhoea at home {id=babies}
 
 You can treat your baby or toddler at home. It’s very important to make sure they keep drinking.
 
-### Do 
-
-- give them enough to drink in small sips - they [dehydrate very quickly](#)
-- continue breastfeeding or formula as normal
-- you can give them liquid paracetamol or ibuprofen for children to ease the pain
-{.list--check}
-
-### Don't
-
-- give them medicines to stop the diarrhoea
-- give them fruit juice and fizzy drinks (they can make the diarrhoea worse)
-{.list--cross}
+<section class="panel panel--binary">
+  <div class="panel__column">
+    <div class="panel__header">
+      <h3>Do</h3>
+    </div>
+    <div class="panel__content">
+      <ul class="list--check">
+        <li>give them enough to drink in small sips - they <a href="">dehydrate very quickly</a></li>
+        <li>continue breastfeeding or formula as normal</li>
+        <li>you can give them liquid paracetamol or ibuprofen for children to ease the pain</li>
+      </ul>
+    </div>
+  </div>
+  <div class="panel__column">
+    <div class="panel__header">
+      <h3>Don’t</h3>
+    </div>
+    <div class="panel__content">
+      <ul class="list--cross">
+        <li>give them medicines to stop the diarrhoea</li>
+        <li>give them fruit juice and fizzy drinks (they can make the diarrhoea worse)</li>
+      </ul>
+    </div>
+  </div>
+  <footer class="panel__footer"><h3>Diarrhoea usually goes away on it’s own</h3></footer>
+</section>
 
 !!! attention
   ## See a GP if your baby or child: {id=gp-babies}
@@ -82,10 +96,11 @@ You can treat your baby or toddler at home. It’s very important to make sure t
 
 ## How long diarrhoea lasts {id=length}
 
-Adults: 2 to 4 days. 
+Adults: 2 to 4 days.
+
 Babies and children: 5 to 7 days. 
 
-Diarrhoea is infectious. To avoid giving it to other people you should:
+Diarrhoea can be infectious. To avoid giving it to other people you should:
 
 - stay off work for 2 days
 - keep children at home for 2 days
