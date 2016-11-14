@@ -48,10 +48,8 @@ You can treat your baby or toddler at home. It’s very important to make sure t
 
 <section class="panel panel--binary">
   <article class="panel__column">
-    <div class="panel__header">
-      <h3>Do</h3>
-    </div>
     <div class="panel__content">
+      <h3>Do</h3>
       <ul class="list--check">
         <li>give them enough to drink in small sips - they <a href="http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx">dehydrate very quickly</a></li>
         <li>continue breastfeeding or formula as normal</li>
@@ -60,10 +58,8 @@ You can treat your baby or toddler at home. It’s very important to make sure t
     </div>
   </article>
   <article class="panel__column">
-    <div class="panel__header">
-      <h3>Don’t</h3>
-    </div>
     <div class="panel__content">
+      <h3>Don’t</h3>
       <ul class="list--cross">
         <li>give them medicines to stop the diarrhoea</li>
         <li>give them fruit juice and fizzy drinks (they can make the diarrhoea worse)</li>

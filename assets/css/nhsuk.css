@@ -1545,10 +1545,15 @@ strong {
   margin-top: 0;
 }
 
+.panel--binary .panel__column {
+  position: relative;
+}
+
 @media (min-width: 641px) {
   .panel--binary .panel__column {
     width: 50%;
-    float: left;
+    display: table-cell;
+    border-left: 4px solid #d9e1e2;
   }
 }
 
@@ -1560,7 +1565,13 @@ strong {
   .panel--binary .panel__header,
   .panel--binary .panel__content,
   .panel--binary .panel__footer {
-    padding: 16px;
+    padding: 24px;
+  }
+}
+
+@media (min-width: 925px) {
+  .panel--binary * + * {
+    margin-top: 24px;
   }
 }
 

@@ -39,10 +39,12 @@
   @extend %clearfix;
   
   .panel__column {
+    position: relative;
     
     @include media(tablet) {
       width: 50%;
-      float: left;
+      display: table-cell;
+      border-left: 4px solid $grey-3;
     }
     
     + .panel__column {
@@ -54,7 +56,13 @@
   .panel__content,
   .panel__footer {
     @include media(desktop) {
-      padding: $default-spacing-unit;
+      padding: ($baseline-grid-unit * 6);
+    }
+  }
+  
+  * + * {
+    @include media(desktop) {
+      margin-top: ($baseline-grid-unit * 6);
     }
   }
 }
