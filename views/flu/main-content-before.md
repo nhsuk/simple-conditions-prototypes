@@ -53,9 +53,9 @@ To help you get better more quickly you can:
 - drink plenty of water
 - eat regular healthy meals
 
-Find out [how to detect dehydration in babies and keep them hydrated](http://www.nhs.uk/Conditions/Dehydration/Pages/introduction.aspx).
+Find out [how to detect dehydration in babies and keep them hydrated](http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx).
 
-## Treating flu with medicine
+### Treating flu with medicine
 
 To help treat aches and high a temperature you can take paracetamol and ibuprofen.
 
