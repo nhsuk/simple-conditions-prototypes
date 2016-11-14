@@ -120,37 +120,31 @@ dl {
 }
 
 .list--check {
-  
-  padding-left: $_chevron-padding*1.5;
-  border-left: 4px solid $grey-4;
 
   li {
     
     &:before {
       background: url("../images/check@2x.png") no-repeat;
       background-size: contain;
-      height: 16px;
+      height: 18px;
       top: 8px;
       left: $_chevron-padding*-1-2;
-      width: 20px;
+      width: 24px;
     }
   }
 }
 
 .list--cross {
-  
-  padding-left: $_chevron-padding*1.5;
-  border-left: 4px solid $grey-4;
 
   li {
 
     &:before {
       background: url("../images/cross@2x.png") no-repeat;
       background-size: contain;
-      height: 16px;
+      height: 18px;
       top: 8px;
       left: $_chevron-padding*-1;
-      width: 16px;
+      width: 18px;
     }
   }
 }

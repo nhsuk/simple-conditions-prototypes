@@ -6,6 +6,11 @@
   <div class="grid-row">
     <div class="column--two-thirds">
       <div class="reading-width">
+        {% if contagionCallout %}
+          <aside class="callout callout--warning">
+            <p>{{ contagionCallout}}</p>
+          </aside>
+        {% endif %}
         {% block content_sidebar_flow_before %}{% endblock %}
       </div>
     </div>

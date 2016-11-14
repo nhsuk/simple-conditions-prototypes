@@ -9,6 +9,7 @@
   .panel__footer {
     @include element-padding;
     background-color: $grey-3;
+    clear: both;
 
     * + & {
       margin-top: 0;
@@ -20,6 +21,7 @@
   .panel__header {
     @include element-padding;
     background-color: $grey-3;
+    clear: both;
     
     + * {
         margin-top: 0;

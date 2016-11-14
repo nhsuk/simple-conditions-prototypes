@@ -323,32 +323,22 @@ dl {
   border-left-color: #d81e05;
 }
 
-.list--check {
-  padding-left: 48px;
-  border-left: 4px solid #eff1f2;
-}
-
 .list--check li:before {
   background: url("../images/check@2x.png") no-repeat;
   background-size: contain;
-  height: 16px;
+  height: 18px;
   top: 8px;
   left: -34px;
-  width: 20px;
-}
-
-.list--cross {
-  padding-left: 48px;
-  border-left: 4px solid #eff1f2;
+  width: 24px;
 }
 
 .list--cross li:before {
   background: url("../images/cross@2x.png") no-repeat;
   background-size: contain;
-  height: 16px;
+  height: 18px;
   top: 8px;
   left: -32px;
-  width: 16px;
+  width: 18px;
 }
 
 a:link {
