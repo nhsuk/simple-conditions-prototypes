@@ -6,14 +6,24 @@ table {
 
   th,
   td {
-    @include core-font(16);
-    border-bottom: 1px solid $grey-3;
-    padding: ($baseline-grid-unit * 3) ($baseline-grid-unit * 3) ($baseline-grid-unit * 3) 0;
+    @include core-font(20);
+    border-bottom: 2px solid $grey-3;
+    padding: ($baseline-grid-unit * 4) ($baseline-grid-unit * 4) ($baseline-grid-unit * 4) 0;
     vertical-align: top;
   }
 
   th {
-    @include bold-font(16);
+    @include bold-font(20);
     text-align: left;
+  }
+}
+
+.table--horizontal-scroll {
+  width: 100%;
+  overflow-y: scroll;
+  
+  table {
+    min-width: 500px;
+    margin: 0;
   }
 }

@@ -16,3 +16,58 @@
 
     
   }
+
+  .panel__header {
+    @include element-padding;
+    background-color: $grey-3;
+    
+    + * {
+        margin-top: 0;
+    }
+  }
+
+  .panel__column {
+
+    + .panel__column {
+        margin-top: 0;
+    }
+  }
+
+.panel--binary {
+  @extend %clearfix;
+  
+  .panel__column {
+    
+    @include media(tablet) {
+      width: 50%;
+      float: left;
+    }
+    
+    + .panel__column {
+        margin-top: 0;
+    }
+  }
+  
+  .panel__header,
+  .panel__content,
+  .panel__footer {
+    @include media(desktop) {
+      padding: $default-spacing-unit;
+    }
+  }
+}
+
+
+table.panel {
+  table-layout: fixed;
+  
+  th,
+  td {
+    padding: ($baseline-grid-unit * 4);
+  }
+
+  th {
+    background-color: $grey-3;
+  }
+  
+}

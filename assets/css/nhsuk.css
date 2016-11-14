@@ -34,7 +34,7 @@
   max-width: 40em;
 }
 
-.grid-row:after, .link-list__row:after, .article-pagination:after, .tabs__nav:after {
+.grid-row:after, .link-list__row:after, .article-pagination:after, .panel--binary:after, .tabs__nav:after {
   clear: both;
   content: "";
   display: block;
@@ -752,52 +752,62 @@ table {
 table th,
 table td {
   font-family: "Frutiger W01", Arial, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 32px;
   text-transform: none;
-  border-bottom: 1px solid #d9e1e2;
-  padding: 12px 12px 12px 0;
+  border-bottom: 2px solid #d9e1e2;
+  padding: 16px 16px 16px 0;
   vertical-align: top;
 }
 
 @media (min-width: 641px) {
   table th,
   table td {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 32px;
   }
 }
 
 @media (min-width: 925px) {
   table th,
   table td {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 32px;
   }
 }
 
 table th {
   font-family: "Frutiger W01", Arial, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
-  line-height: 24px;
+  line-height: 32px;
   text-transform: none;
   text-align: left;
 }
 
 @media (min-width: 641px) {
   table th {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 32px;
   }
 }
 
 @media (min-width: 925px) {
   table th {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 32px;
   }
+}
+
+.table--horizontal-scroll {
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.table--horizontal-scroll table {
+  min-width: 500px;
+  margin: 0;
 }
 
 blockquote {
@@ -1522,6 +1532,57 @@ strong {
 
 * + .panel__footer {
   margin-top: 0;
+}
+
+.panel__header {
+  padding: 16px;
+  background-color: #d9e1e2;
+}
+
+@media (min-width: 925px) {
+  .panel__header {
+    padding: 32px;
+  }
+}
+
+.panel__header + * {
+  margin-top: 0;
+}
+
+.panel__column + .panel__column {
+  margin-top: 0;
+}
+
+@media (min-width: 641px) {
+  .panel--binary .panel__column {
+    width: 50%;
+    float: left;
+  }
+}
+
+.panel--binary .panel__column + .panel__column {
+  margin-top: 0;
+}
+
+@media (min-width: 925px) {
+  .panel--binary .panel__header,
+  .panel--binary .panel__content,
+  .panel--binary .panel__footer {
+    padding: 16px;
+  }
+}
+
+table.panel {
+  table-layout: fixed;
+}
+
+table.panel th,
+table.panel td {
+  padding: 16px;
+}
+
+table.panel th {
+  background-color: #d9e1e2;
 }
 
 .section-unit--divider {
