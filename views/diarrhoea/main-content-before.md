@@ -44,18 +44,31 @@ Don’t give aspirin to children under 16.
 
 You can treat your baby or toddler at home. It’s very important to make sure they keep drinking.
 
-### Do 
-
-- give them enough to drink in small sips - they [dehydrate very quickly](#)
-- continue breastfeeding or formula as normal
-- you can give them liquid paracetamol or ibuprofen for children to ease the pain
-{.list--check}
-
-### Don't
-
-- give them medicines to stop the diarrhoea
-- give them fruit juice and fizzy drinks (they can make the diarrhoea worse)
-{.list--cross}
+<section class="panel panel--binary">
+  <article class="panel__column">
+    <div class="panel__header">
+      <h3>Do</h3>
+    </div>
+    <div class="panel__content">
+      <ul class="list--check">
+        <li>give them enough to drink in small sips - they <a href="#">dehydrate very quickly</a></li>
+        <li>continue breastfeeding or formula as normal</li>
+        <li>you can give them liquid paracetamol or ibuprofen for children to ease the pain</li>
+      </ul>
+    </div>
+  </article>
+  <article class="panel__column">
+    <div class="panel__header">
+      <h3>Don’t</h3>
+    </div>
+    <div class="panel__content">
+      <ul class="list--cross">
+        <li>give them medicines to stop the diarrhoea</li>
+        <li>give them fruit juice and fizzy drinks (they can make the diarrhoea worse)</li>
+      </ul>
+    </div>
+  </article>
+</section>
 
 !!! attention
   ## See a GP if your baby or child: {id=gp-babies}
