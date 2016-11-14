@@ -1,8 +1,33 @@
-{% extends '_layouts/content-sidebar-last.nunjucks' %}
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
 
 {% set title = 'Mouth ulcers' %}
-{% set intro = 'Mouth ulcers are common and rarely a sign of anything more serious. They should clear up on their own within a week or two but can be uncomfortable to live with.' %}
+{% set intro = 'Mouth ulcers are common and should clear up on their own within a week or two. They’re rarely a sign of anything serious, but may be uncomfortable to live with.' %}
+{% set break = 'true' %}
 
-{% block content_sidebar_last %}
-  {% markdown "mouth-ulcers/main-content.md" %}
+{% block content_sidebar_flow_before %}
+  {% markdown "mouth-ulcers/main-content-before.md" %}
+{% endblock %}
+
+{% block sidebar %}
+{% endblock %}
+
+{% block content_sidebar_flow_break %}
+<article>
+  <figure class="card">
+    <img src="/images/mouth-ulcers/mouth-ulcer-3.png" />
+    <figcaption class="card__caption"><p>Mouth ulcers usually appear inside the mouth</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/mouth-ulcers/mouth-ulcer-1.jpg" />
+    <figcaption class="card__caption"><p>They can appear on the cheeks, tongue or lips</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/mouth-ulcers/mouth-ulcer-2.jpg" />
+    <figcaption class="card__caption"><p>You may have more than one ulcer at a time and they can change size</p></figcaption>
+  </figure>
+</article>
+{% endblock %}
+
+{% block content_sidebar_flow_after %}
+  {% markdown "mouth-ulcers/main-content-after.md" %}
 {% endblock %}
