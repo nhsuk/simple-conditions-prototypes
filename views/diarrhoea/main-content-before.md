@@ -4,7 +4,9 @@ Diarrhoea will go away on its own after a few days.  It’s normal to have stoma
 
 It’s important to drink enough fluids to [avoid dehydration](http://www.nhs.uk/Conditions/dehydration/Pages/Introduction.aspx). Your pee should be light yellow or clear.
 
-Drink small sips of things like water mixed with juice and soup broth to make sure you get enough salt and sugar. As soon as you’re able to eat things like potatoes, rice, bananas, soup, and boiled vegetables.
+Drink small sips of things like water mixed with juice and soup broth to make sure you get enough salt and sugar. 
+
+As soon as you’re able to eat things like potatoes, rice, bananas, soup, and boiled vegetables.
 
 ### Frail or elderly people with diarrhoea
 
@@ -51,7 +53,7 @@ You can treat your baby or toddler at home. It’s very important to make sure t
     </div>
     <div class="panel__content">
       <ul class="list--check">
-        <li>give them enough to drink in small sips - they <a href="">dehydrate very quickly</a></li>
+        <li>give them enough to drink in small sips - they <a href="http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx">dehydrate very quickly</a></li>
         <li>continue breastfeeding or formula as normal</li>
         <li>you can give them liquid paracetamol or ibuprofen for children to ease the pain</li>
       </ul>
@@ -68,16 +70,15 @@ You can treat your baby or toddler at home. It’s very important to make sure t
       </ul>
     </div>
   </div>
-  <footer class="panel__footer"><h3>Diarrhoea usually goes away on it’s own</h3></footer>
 </section>
 
 !!! attention
-  ## See a GP if your baby or child: {id=gp-babies}
+  ## Take your baby or toddler to the GP if they: {id=gp-babies}
 
   - had 6 or more bouts of diarrhoea in the past 24 hours
   - vomited more than 3 times in the past 24 hours
   - has watery or bloody poo
-  - shows [signs of dehydration](XXX)
+  - shows [signs of dehydration](http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx)
   - has severe stomach ache or one that doesn’t stop
   - still has diarrhoea after 5 to 7 days
   <hr>
@@ -96,8 +97,7 @@ You can treat your baby or toddler at home. It’s very important to make sure t
 
 ## How long diarrhoea lasts {id=length}
 
-Adults: 2 to 4 days.
-
+Adults: 2 to 4 days.<br>
 Babies and children: 5 to 7 days. 
 
 Diarrhoea can be infectious. To avoid giving it to other people you should:
@@ -126,7 +126,7 @@ Diarrhoea is usually caused by a bowel infection. Other causes can be things lik
 
 If you’re taking any meds, check for side effects. Diarrhoea might be one of them.
 
-::: reveal Some conditions where diarrhoea is a symptom
+::: reveal Conditions that can cause diarrhoea
   - [irritable bowel symptom](http://www.nhs.uk/Conditions/Irritable-bowel-syndrome/Pages/Introduction.aspx)
   - [Crohn’s disease](http://www.nhs.uk/conditions/crohns-disease/pages/introduction.aspx)
   - [ulcerative colitis](http://www.nhs.uk/conditions/Ulcerative-colitis/Pages/Introduction.aspx)
@@ -138,7 +138,7 @@ If you’re taking any meds, check for side effects. Diarrhoea might be one of t
 :::
 
 ## Preventing diarrhoea  {id=prevention}
-You can’t really prevent diarrhoea or getting it again. However, good [food hygiene](#) helps making the risk of getting it smaller. 
+You can’t really prevent diarrhoea or getting it again. However, good [food hygiene](https://www.food.gov.uk/) helps making the risk of getting it smaller. 
 
 ### While you have it you should: 
 - wash your hands well every time you’ve been to the toilet  
@@ -146,6 +146,6 @@ You can’t really prevent diarrhoea or getting it again. However, good [food hy
 - not share towels and things you put in your mouth like cutlery
 - wash soiled clothes or bed linen at 60 degrees or higher
 
-As part of their [routine childhood vaccination](#) children are vaccinated against the rotavirus virus which causes diarrhoea. 
+As part of their [routine childhood vaccination](http://www.nhs.uk/Conditions/vaccinations/Pages/rotavirus-vaccine.aspx) children are vaccinated against the rotavirus virus which causes diarrhoea. 
 
 There are things you can do to help [prevent diarrhoea when you travel](http://travelhealthpro.org.uk/countries).
