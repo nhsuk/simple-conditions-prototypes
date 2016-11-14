@@ -14,7 +14,7 @@ To reduce the risk of spreading flu you should:
 
 The flu vaccine reduces the risk of catching flu as well as spreading it to others.
 
-It’s best to get the vaccine before the start of the flu season (December to March).
+It’s more effective to get the vaccine before the start of the flu season (December to March).
 
 [Flu: vaccination: how and where to get it](http://www.nhs.uk/conditions/vaccinations/pages/flu-influenza-vaccine.aspx)
 

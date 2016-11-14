@@ -62,7 +62,7 @@ To help treat aches and high a temperature you can take paracetamol and ibuprofe
 You can get flu medicines from a pharmacist. Like a GP, they can explain which flu medicines to take and explain how to take them.
 
 !!! info_compact
-  [Find your nearest pharmacist](https://beta.nhs.uk/finders/find-help)
+  [Get flu medicines and free advice from your nearest pharmacist](https://beta.nhs.uk/finders/find-help)
 !!!
 
 !!! attention
