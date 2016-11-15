@@ -26,8 +26,10 @@
   {% endif %}
   
   <div class="grid-row">
-    <div class="reading-width">
-      {% block content_sidebar_flow_after %}{% endblock %}
+    <div class="column--two-thirds">
+      <div class="reading-width">
+        {% block content_sidebar_flow_after %}{% endblock %}
+      </div>
     </div>
   </div>
   
