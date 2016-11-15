@@ -7,10 +7,10 @@
       <li>you can’t put weight on the injury or use it normally</li>
     </ul>
   </div>
-  <footer class="panel__footer"><h3>Sprains and strains can be treated at home</h3></footer>
+  <footer class="panel__footer"><h3>Most sprains and strains can be treated at home</h3></footer>
 </article>
 
-Sprains and strains happen when you overstretch or twist a muscle.  This is often due to playing sport or doing exercise. They are common in the ankles and knees. 
+Sprains and strains happen when you overstretch or twist a muscle.  This is often due to playing sport or doing exercise.
 
 ::: reveal Is it a sprain or a strain?
   <div class="table--horizontal-scroll">
@@ -24,22 +24,8 @@ Sprains and strains happen when you overstretch or twist a muscle.  This is ofte
         <td>Overstretched or torn muscle</td>
       </tr>
       <tr>
-        <td>Most common in:
-          <ul>
-            <li>wrists</li>
-            <li>ankles</li>
-            <li>thumbs</li> 
-            <li>knees</li>
-          </ul>
-        </td>
-        <td>Most common in:
-          <ul>
-            <li>knees</li>
-            <li>feet</li>
-            <li>legs</li> 
-            <li>back</li>
-          </ul>
-        </td>
+        <td>Most common in: wrists, ankles, thumbs, knees</td>
+        <td>Most common in: knees, feet, legs, back
       </tr>
     </table>
   </div>
@@ -47,7 +33,7 @@ Sprains and strains happen when you overstretch or twist a muscle.  This is ofte
 
 ## How to treat sprains and strains at home
 
-You can treat most sprains or strains at home.  Follow 4 steps known as RICE therapy:
+For the first couple of days follow the 4 steps known as RICE therapy to help bring down swelling and protect and support the injury:
 
 1. **Rest** - try not to put weight on it and stop any exercise or activities 
 1. **Ice** - apply an ice pack or a bag of frozen food wrapped in a teatowel to the injury. Do this for up to 20 minutes every 2-3 hours.  
@@ -65,7 +51,7 @@ To help ease any pain use over-the-counter painkillers such as paracetamol or NS
 NSAID tablets can also help to reduce swelling. Take them 48 hours after your injury because that can delay healing if taken too soon. Talk to your pharmacist if you would like to take them earlier or use a stronger painkiller. 
 
 !!! info_compact
-  [Find a pharmacy](#) 
+  [Find a pharmacy](https://beta.nhs.uk/finders/find-help) 
 !!!
 
 ## How long will it take to heal?
