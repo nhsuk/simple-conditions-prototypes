@@ -11,10 +11,8 @@ A saltwater mouthwash may help to soothe the pain. Dissolve half a teaspoon of t
 
 <section class="panel panel--binary">
   <article class="panel__column">
-    <div class="panel__header">
-      <h3>Do</h3>
-    </div>
     <div class="panel__content">
+      <h3>Do</h3>
       <ul class="list--check">
         <li>use a soft-bristled toothbrush</li>
         <li>drink cool drinks through a straw</li>
@@ -25,10 +23,8 @@ A saltwater mouthwash may help to soothe the pain. Dissolve half a teaspoon of t
     </div>
   </article>
   <article class="panel__column">
-    <div class="panel__header">
-      <h3>Don’t</h3>
-    </div>
     <div class="panel__content">
+      <h3>Don’t</h3>
       <ul class="list--cross">
         <li>eat very spicy, salty or acidic food</li>
         <li>eat hard, crunchy food - such as toast or crisps</li>
@@ -60,10 +56,9 @@ These can be bought without a prescription but don’t always work.
   - lasts longer than three weeks
   - keeps coming back
   - becomes more painful and red - this may be a sign of infection
-  <hr>
-  
-  Although most mouth ulcers are harmless, a long-lasting mouth ulcer is sometimes a sign of mouth cancer. It’s best to get it checked.
 !!!
+
+Although most mouth ulcers are harmless, a long-lasting mouth ulcer is sometimes a sign of mouth cancer. It’s best to get it checked.
 
 ### Treatment from a dentist or GP
 

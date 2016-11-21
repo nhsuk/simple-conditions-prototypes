@@ -61,17 +61,23 @@ NSAID tablets can also help to reduce swelling. Take them 48 hours after your in
 
 More severe sprains and strains can take several months to get back to normal. 
 
+<hr>
+
 ## When you need medical help
 
 You should go to a minor injuries unit or your GP if your sprain is severe.
 
-!!! attention
-  ## It’s a severe sprain when:
-  - the injury isn’t feeling any better within a few days
-  - you’re in pain and can’t put weight on the injured joint 
-  - you can’t move the joint or muscle
-  - the injury is numb, discoloured or cold to touch 
-!!!
+<article class="panel">
+  <div class="panel__content">
+    <h2>It’s a severe sprain when:</h2>
+    <ul class="list--chevron">
+      <li>the injury isn’t feeling any better within a few days</li>
+      <li>you’re in pain and can’t put weight on the injured joint</li>
+      <li>you can’t move the joint or muscle</li>
+      <li>the injury is numb, discoloured or cold to touch</li>
+    </ul>
+  </div>
+</article>
 
 Your GP may refer you to a physiotherapist for treatment or you can book an appointment privately.
 
@@ -79,11 +85,11 @@ Your GP may refer you to a physiotherapist for treatment or you can book an appo
   Minor injuries unit treat injuries that aren’t serious, such as sprains and broken bones. These are situated in some hospitals and healthcare centres. 
 :::
 
-!!! info_compact
-  [Find a minor injuries unit or see a GP](#)
-!!!
-
 You may be prescribed stronger painkillers, exercises or given crutches.
+
+!!! info_compact
+  [Find a minor injuries unit or see a GP](http://www.nhs.uk/service-search/)
+!!!
 
 !!! alert
 ## What if it’s a broken bone?
