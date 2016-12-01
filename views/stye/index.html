@@ -1,0 +1,17 @@
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+
+{% set title = 'Flu' %}
+{% set intro = 'You can treat the flu without seeing your GP and you should begin to feel better in a week.' %}
+{% set contagionCallout = 'Flu is infectious. Stay at home to avoid spreading it.' %}
+
+{% block content_sidebar_flow_before %}
+  {% markdown "flu/main-content-before.md" %}
+{% endblock %}
+
+{% block sidebar %}
+  {% markdown "flu/sidebar-content.md" %}
+{% endblock %}
+
+{% block content_sidebar_flow_after %}
+  {% markdown "flu/main-content-after.md" %}
+{% endblock %}

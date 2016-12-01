@@ -88,5 +88,5 @@ Your GP may refer you to a physiotherapist for treatment or you can book an appo
 You may be prescribed stronger painkillers, exercises or given crutches.
 
 !!! info_compact
-  [Find a minor injuries unit or see a GP](http://www.nhs.uk/service-search/)
+  [Find a minor injuries unit](http://www.nhs.uk/service-search/) or see your GP
 !!!

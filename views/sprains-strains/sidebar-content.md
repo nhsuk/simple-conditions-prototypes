@@ -10,6 +10,6 @@ It can be a broken bone if:
 - you feel dizzy or sick
 <hr>
 
-If you think you have broken a bone, you should go to a [minor injuries unit or A&E](http://www.nhs.uk/service-search/) as you may need an X-ray. 
+If you think you have broken a bone, you should go to a [minor injuries unit](http://www.nhs.uk/service-search/Minor-injuries-unit/LocationSearch/551) or [A&E](http://www.nhs.uk/Service-Search/Accident-and-emergency-services/LocationSearch/428) as you may need an X-ray. 
 
 !!!
