@@ -1,24 +1,71 @@
-## How to avoid spreading the flu
+A stye usually only affects one eye but it’s possible to have more than one at a time.
 
-Flu is very contagious and easily spread to other people. You’re more likely to give the flu to others in the first 5 days.
+It’s probably not a stye if:
 
-Flu is spread by germs from coughs and sneezes which can live on hands and surfaces for 24 hours.
+- there is no lump - if your eye or eyelid is swollen, red and watery it’s more likely to be [conjunctivitis](http://www.nhs.uk/Conditions/Conjunctivitis-infective/Pages/Introduction.aspx) or [blepharitis](http://www.nhs.uk/conditions/blepharitis/Pages/Introduction.aspx)
+- the lump is hard but not very painful - it’s more likely to be a [chalazion](http://www.moorfields.nhs.uk/condition/chalazion-0)
 
-To reduce the risk of spreading flu you should:
+## How you can treat a stye yourself
 
-* wash your hands often with warm water and soap
-* use tissues to trap germs when you cough or sneeze
-* bin used tissues as quickly as possible
+You can treat a stye at home to help to ease the pain and swelling until it heals.
 
-### How to prevent flu
+To reduce swelling and help the stye heal:
 
-The flu vaccine reduces the risk of catching flu as well as spreading it to others.
+- soak a clean flannel in warm water
+- hold it against your eye for 5 to 10 minutes
+- repeat this 3 or 4 times a day 
 
-It’s more effective to get the vaccine before the start of the flu season (December to March).
+To relieve the pain, take painkillers such as [paracetamol] (http://www.nhs.uk/Conditions/Painkillers-paracetamol/Pages/Introduction.aspx) or [ibuprofen](http://www.nhs.uk/conditions/painkillers-ibuprofen/Pages/Introduction.aspx). These are available to buy in supermarkets and pharmacies. Don’t give aspirin to children under 16.
 
-[Flu: vaccination: how and where to get it](http://www.nhs.uk/conditions/vaccinations/pages/flu-influenza-vaccine.aspx)
+Avoid wearing contact lenses and eye makeup until the stye has burst and healed.
 
-[Find out if you’re eligible for a free vaccine](http://www.nhs.uk/Conditions/vaccinations/Pages/who-should-have-flu-vaccine.aspx)
+!!! warning
+Don’t try to burst a stye or remove an eyelash yourself. This can spread the infection.
+!!!
 
+!!! info_compact
+If you’re not sure what to do, call 111.
+!!!
 
- 
+!!! attention
+
+  ## See a GP if:
+
+  Your stye:
+
+  - is very painful or swollen
+  - doesn’t get better within a few weeks
+  - is affecting your vision
+
+!!!
+
+Your GP may:
+
+- burst the stye with a thin, sterilised needle
+- remove the eyelash closest to the stye  
+- refer you to an eye specialist in hospital
+
+## You can’t always prevent a stye
+
+Styes are often caused by bacteria infecting an eyelash follicle or eyelid gland. You’re also more likely to get a stye if you have long-term [blepharitis](http://www.nhs.uk/Conditions/Blepharitis/Pages/Introduction.aspx).
+
+You can help to prevent styes with some simple hygiene measures.
+
+<article class="panel panel--binary">
+  <div class="panel__column">
+    <div class="panel__content">
+      <ul class="list--check">
+        <li>wash your face and remove eye makeup before bed</li>
+        <li>replace your eye makeup every 6 months</li>
+        <li><a href="http://www.nhs.uk/Conditions/Blepharitis/Pages/Treatment.aspx">keep your eyelids and eyelashes clean</a> - especially if you have blepharitis</li>
+      </ul>
+    </div>
+  </div>
+  <div class="panel__column">
+    <div class="panel__content">
+      <li>share towels or flannels with someone who has a stye</li>
+      <li>rub your eyes if you haven’t recently washed your hands</li>
+      <li>put contact lenses in before washing your hands</li>
+    </div>
+  </div>
+</article>

@@ -1,17 +1,30 @@
 {% extends '_layouts/content-sidebar-flow.nunjucks' %}
 
-{% set title = 'Flu' %}
-{% set intro = 'You can treat the flu without seeing your GP and you should begin to feel better in a week.' %}
-{% set contagionCallout = 'Flu is infectious. Stay at home to avoid spreading it.' %}
+{% set title = 'Stye' %}
+{% set intro = 'Styes are common and should clear up on their own within a week or two. They’re rarely a sign of anything serious but may be painful until they heal.' %}
+{% set break = 'true' %}
 
 {% block content_sidebar_flow_before %}
-  {% markdown "flu/main-content-before.md" %}
+  {% markdown "stye/main-content-before.md" %}
 {% endblock %}
 
-{% block sidebar %}
-  {% markdown "flu/sidebar-content.md" %}
+{% block content_sidebar_flow_break %}
+<article>
+  <figure class="card">
+    <img src="/images/mouth-ulcers/mouth-ulcer-3.png" />
+    <figcaption class="card__caption"><p>A stye is a small, painful lump on or inside the eyelid</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/mouth-ulcers/mouth-ulcer-1.jpg" />
+    <figcaption class="card__caption"><p>The skin may be red, swollen and filled with yellow pus like a pimple</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/mouth-ulcers/mouth-ulcer-2.jpg" />
+    <figcaption class="card__caption"><p>Your eye may be red and watery but your vision should not be affected</p></figcaption>
+  </figure>
+</article>
 {% endblock %}
 
 {% block content_sidebar_flow_after %}
-  {% markdown "flu/main-content-after.md" %}
+  {% markdown "stye/main-content-after.md" %}
 {% endblock %}
