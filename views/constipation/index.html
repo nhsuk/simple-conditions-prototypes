@@ -1,0 +1,13 @@
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+
+{% set title = 'Constipation' %}
+{% set intro = 'Constipation is common and it affects people of all ages. You can usually treat it at home with simple changes to your diet and lifestyle.' %}
+{% set link_list = { 'Causes in adults': '#adults', 'Causes in babies and toddlers': '#babies', 'Treating adults': '#treating_adults', 'Treating babies and toddlers': '#treating_babies', 'How your pharmacist can help': '#pharmacist', 'When to see a GP': '#gp', 'Check if it is constipation': '#check' } %}
+
+{% block content_sidebar_flow_before %}
+  {% markdown "constipation/main-content-before.md" %}
+{% endblock %}
+
+{% block content_sidebar_flow_after %}
+  {% markdown "constipation/main-content-after.md" %}
+{% endblock %}
