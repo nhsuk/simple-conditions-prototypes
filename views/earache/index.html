@@ -1,0 +1,13 @@
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+
+{% set title = 'Earache and pain' %}
+{% set intro = 'Earache and pain is common, particularly in young children. It’s not usually a sign of anything serious, but it can be painful.' %}
+{% set break = 'true' %}
+
+{% block content_sidebar_flow_before %}
+  {% markdown "earache/main-content-before.md" %}
+{% endblock %}
+
+{% block content_sidebar_flow_after %}
+  {% markdown "earache/main-content-after.md" %}
+{% endblock %}

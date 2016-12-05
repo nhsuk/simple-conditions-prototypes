@@ -86,6 +86,7 @@ fieldset,
 legend,
 figure,
 table,
+.table--compare,
 th,
 td,
 caption,
@@ -94,7 +95,7 @@ hr {
   padding: 0;
 }
 
-html, body, button, input, table, td, th {
+html, body, button, input, table, .table--compare, td, th {
   font-family: "Frutiger W01", Arial, sans-serif;
 }
 
@@ -732,42 +733,42 @@ p {
   }
 }
 
-table {
+table, .table--compare {
   border-collapse: collapse;
   border-spacing: 0;
   margin: 16px 0 32px;
   width: 100%;
 }
 
-table th,
-table td {
+table th, .table--compare th,
+table td, .table--compare td {
   font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
   text-transform: none;
-  border-bottom: 2px solid #d9e1e2;
+  border-bottom: 2px solid #eff1f2;
   padding: 16px 16px 16px 0;
   vertical-align: top;
 }
 
 @media (min-width: 641px) {
-  table th,
-  table td {
+  table th, .table--compare th,
+  table td, .table--compare td {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
 @media (min-width: 925px) {
-  table th,
-  table td {
+  table th, .table--compare th,
+  table td, .table--compare td {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
-table th {
+table th, .table--compare th {
   font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 600;
@@ -777,14 +778,14 @@ table th {
 }
 
 @media (min-width: 641px) {
-  table th {
+  table th, .table--compare th {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
 @media (min-width: 925px) {
-  table th {
+  table th, .table--compare th {
     font-size: 20px;
     line-height: 32px;
   }
@@ -795,9 +796,42 @@ table th {
   overflow-y: scroll;
 }
 
-.table--horizontal-scroll table {
+.table--horizontal-scroll table, .table--horizontal-scroll .table--compare {
   min-width: 500px;
   margin: 0;
+}
+
+.table--compare tr:nth-child(even) {
+  background-color: #f7f8f9;
+}
+
+.table--compare th, .table--compare td {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-transform: none;
+  text-align: left;
+  padding-left: 8px;
+}
+
+@media (min-width: 641px) {
+  .table--compare th, .table--compare td {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: 925px) {
+  .table--compare th, .table--compare td {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.table--compare ul {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 blockquote {
@@ -1575,16 +1609,16 @@ strong {
   }
 }
 
-table.panel {
+table.panel, .panel.table--compare {
   table-layout: fixed;
 }
 
-table.panel th,
-table.panel td {
+table.panel th, .panel.table--compare th,
+table.panel td, .panel.table--compare td {
   padding: 16px;
 }
 
-table.panel th {
+table.panel th, .panel.table--compare th {
   background-color: #d9e1e2;
 }
 
@@ -1941,7 +1975,7 @@ table.panel th {
   display: block;
 }
 
-.font-small {
+.font-small, .table--compare ul {
   font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -1950,14 +1984,14 @@ table.panel th {
 }
 
 @media (min-width: 641px) {
-  .font-small {
+  .font-small, .table--compare ul {
     font-size: 16px;
     line-height: 24px;
   }
 }
 
 @media (min-width: 925px) {
-  .font-small {
+  .font-small, .table--compare ul {
     font-size: 16px;
     line-height: 24px;
   }
