@@ -44,22 +44,55 @@ How long it lasts depends on what’s causing it.  Most earaches in children are
 
 Earache and pain can be caused by many things, sometimes the cause isn’t known.  Here are some of the most common causes:  
 
-### Ear pain with toothache 
-Children teething 
-Dental abscess
+<table class="table--compare">
+  
+  <tr>
+    <th>Symptom</th>
+    <th>Common cause</th>
+  </tr>
 
-### Ear pain with change in hearing
-Glue ear
-Earwax build-up
-An object stuck in the ear - do not try to remove it yourself, see your GP
-Perforated eardrum - particularly after a loud noise or accident
+  <tr>
+    <td>Ear pain with toothache</td>
+    <td>
+      <ul>
+          <li>Children teething</li>
+          <li>Dental abscess</li>
+        </ul>
+    </td>
+  </tr>
 
-### Ear pain with pain when swallowing
-Sore throat
-Tonsilitis
-Quinsy
+  <tr>
+    <td>Ear pain with change in hearing</td>
+    <td>
+      <ul>
+        <li>Glue ear</li>
+        <li>Earwax build-up</li>
+        <li>An object stuck in the ear - do not try to remove it yourself, see your GP</li>
+        <li>Perforated eardrum - particularly after a loud noise or accident</li>
+      </ul>
+    </td>
+  </tr>
 
-### Ear pain with a fever
-Ear infection
-Flu
-Cold
+  <tr>
+    <td>Ear pain with pain when swallowing</td>
+    <td>
+      <ul>
+        <li>Sore throat</li>
+        <li>Tonsilitis</li>
+        <li>Quinsy</li>
+      </ul>
+    </td>
+  </tr>
+
+   <tr>
+    <td>Ear pain with a fever</td>
+    <td>
+      <ul>
+        <li>Ear infection</li>
+        <li>Flu</li>
+        <li>Cold</li>
+      </ul>
+    </td>
+  </tr>
+
+</table>
