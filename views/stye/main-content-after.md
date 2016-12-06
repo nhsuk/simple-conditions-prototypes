@@ -54,6 +54,7 @@ You can help to prevent styes with some simple hygiene measures.
 <article class="panel panel--binary">
   <div class="panel__column">
     <div class="panel__content">
+      <h3>Do</h3>
       <ul class="list--check">
         <li>wash your face and remove eye makeup before bed</li>
         <li>replace your eye makeup every 6 months</li>
@@ -63,9 +64,12 @@ You can help to prevent styes with some simple hygiene measures.
   </div>
   <div class="panel__column">
     <div class="panel__content">
-      <li>share towels or flannels with someone who has a stye</li>
-      <li>rub your eyes if you haven’t recently washed your hands</li>
-      <li>put contact lenses in before washing your hands</li>
+      <h3>Don’t</h3>
+      <ul class="list--cross">
+        <li>share towels or flannels with someone who has a stye</li>
+        <li>rub your eyes if you haven’t recently washed your hands</li>
+        <li>put contact lenses in before washing your hands</li>
+      </ul>
     </div>
   </div>
 </article>
