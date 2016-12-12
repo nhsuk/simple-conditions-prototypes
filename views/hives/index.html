@@ -1,0 +1,29 @@
+{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+
+{% set title = 'Hives' %}
+{% set intro = 'Hives rashes will usually settle down from within a few minutes to a few days. You can often treat most hives yourself. ' %}
+{% set break = 'true' %}
+
+{% block content_sidebar_flow_before %}
+  {% markdown "hives/main-content-before.md" %}
+{% endblock %}
+
+{% block sidebar %}
+{% endblock %}
+
+{% block content_sidebar_flow_break %}
+<article>
+  <figure class="card">
+    <img src="/images/hives/hives-1.jpg" />
+    <figcaption class="card__caption"><p>Hives can look like red, raised patches</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/hives/hives-2.jpg" />
+    <figcaption class="card__caption"><p>The rash can be red spots</p></figcaption>
+  </figure>
+</article>
+{% endblock %}
+
+{% block content_sidebar_flow_after %}
+  {% markdown "hives/main-content-after.md" %}
+{% endblock %}
