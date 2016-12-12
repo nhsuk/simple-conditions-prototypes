@@ -26,11 +26,17 @@ dl {
   @include core-font(20);
 }
 
+dt {
+  @include bold-font(20);
+}
+
 .local-header,
 .page-section,
 .global-footer {
-  li {
-    + li {
+  li, 
+  dd {
+    + li, 
+    + dd {
       margin-top: $baseline-grid-unit * 2;
     }
 
@@ -146,5 +152,24 @@ dl {
       left: $_chevron-padding*-1;
       width: 18px;
     }
+  }
+}
+
+.list--compare {
+  
+  dt:first-child {
+    + dd {
+      margin-top: 0;
+    }
+  }
+  
+  dt {
+    width: 40%;
+    float: left;
+  }
+  
+  dd {
+    width: 60%;
+    float: right;
   }
 }

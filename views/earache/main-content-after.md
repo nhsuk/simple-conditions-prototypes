@@ -1,15 +1,4 @@
 
-To help relieve the pain and discomfort: 
-
-## Your pharmacist can help with earaches
-
-They can give advice and recommend treatments, such as eardrops. 
-
-!!! info
-[Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help)
-!!!
-
-Call 111 for advice or if you’re not sure what to do.
 
 !!! attention
   ## See your GP if:
@@ -38,11 +27,35 @@ A young child might have earache if they:
 
 ## How long it lasts 
 
-How long it lasts depends on what’s causing it.  Most earaches in children are caused by an ear infection, this usually lasts for a few days. 
+How long it lasts depends on what’s causing it.  Most earaches in children are caused by an ear infection, and they usually start to feel better after a few days.
 
 ## What causes earache and pain
 
-Earache and pain can be caused by many things, sometimes the cause isn’t known.  Here are some of the most common causes:  
+Earache and pain can be caused by many things, sometimes the cause isn’t known. Here are some of the most common causes: 
+
+<dl class="list--compare">
+
+  <dt>Ear pain with toothache</dt>
+  <dd>Children teething</dd>
+  <dd>Dental abscess</dd>
+  
+  <dt>Ear pain with change in hearing</dt>
+  <dd>Glue ear</dd>
+  <dd>Earwax build-up</dd>
+  <dd>An object stuck in the ear - do not try to remove it yourself, see your GP</dd>
+  <dd>Perforated eardrum - particularly after a loud noise or accident</dd>
+  
+  <dt>Ear pain with pain when swallowing</dt>
+  <dd>Sore throat</dd>
+  <dd>Tonsilitis</dd>
+  <dd>Quinsy</dd>
+  
+  <dt>Ear pain with a fever</dt>
+  <dd>Ear infection</dd>
+  <dd>Flu</dd>
+  <dd>Cold</dd>
+  
+</dl>
 
 <table class="table--compare">
   
@@ -57,7 +70,7 @@ Earache and pain can be caused by many things, sometimes the cause isn’t known
       <ul>
           <li>Children teething</li>
           <li>Dental abscess</li>
-        </ul>
+      </ul>
     </td>
   </tr>
 

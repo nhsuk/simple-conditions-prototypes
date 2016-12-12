@@ -568,21 +568,61 @@ dl {
   }
 }
 
+dt {
+  font-family: "Frutiger W01", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 32px;
+  text-transform: none;
+}
+
+@media (min-width: 641px) {
+  dt {
+    font-size: 20px;
+    line-height: 32px;
+  }
+}
+
+@media (min-width: 925px) {
+  dt {
+    font-size: 20px;
+    line-height: 32px;
+  }
+}
+
 .local-header li + li,
+.local-header li + dd,
+.local-header dd + li,
+.local-header dd + dd,
 .page-section li + li,
-.global-footer li + li {
+.page-section li + dd,
+.page-section dd + li,
+.page-section dd + dd,
+.global-footer li + li,
+.global-footer li + dd,
+.global-footer dd + li,
+.global-footer dd + dd {
   margin-top: 8px;
 }
 
 .local-header li > ul,
 .local-header li > ol,
 .local-header li > dl,
+.local-header dd > ul,
+.local-header dd > ol,
+.local-header dd > dl,
 .page-section li > ul,
 .page-section li > ol,
 .page-section li > dl,
+.page-section dd > ul,
+.page-section dd > ol,
+.page-section dd > dl,
 .global-footer li > ul,
 .global-footer li > ol,
-.global-footer li > dl {
+.global-footer li > dl,
+.global-footer dd > ul,
+.global-footer dd > ol,
+.global-footer dd > dl {
   margin-top: 8px;
 }
 
@@ -669,6 +709,20 @@ dl {
   top: 8px;
   left: -32px;
   width: 18px;
+}
+
+.list--compare dt:first-child + dd {
+  margin-top: 0;
+}
+
+.list--compare dt {
+  width: 40%;
+  float: left;
+}
+
+.list--compare dd {
+  width: 60%;
+  float: right;
 }
 
 a:link {
