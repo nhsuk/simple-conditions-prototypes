@@ -16,7 +16,6 @@
       <li>nausea and vomiting</li>
     </ul>
   </div>
-  <div class="panel__footer"><h2 class="bold-medium">Staying at home is the best cure for the flu</h2></div>
 </article>
   
 The symptoms are similar for children but they can get a pain in their ear and appear less active.
@@ -26,8 +25,8 @@ The symptoms are similar for children but they can get a pain in their ear and a
   <div class="table--horizontal-scroll">
     <table class="panel panel--binary">
       <tr>
-        <th>Cold symptoms</th>
-        <th>Flu symptoms</th>
+        <th>Cold</th>
+        <th>Flu</th>
       </tr>
       <tr>
         <td>Appears gradually</td>
@@ -45,36 +44,42 @@ The symptoms are similar for children but they can get a pain in their ear and a
   </div>
 :::
 
-## Treating flu at home
+## How to treat flu yourself
 
 To help you get better more quickly you can:
 
-- rest and sleep 
-- drink plenty of water
-- eat regular healthy meals
+- rest and sleep
+- keep warm
+- take paracetamol or ibuprofen to lower your temperature and treat aches and pains
+- drink plenty of water to [avoid dehydration](http://www.nhs.uk/Conditions/dehydration/Pages/Introduction.aspx) (your pee should be light yellow or clear)
 
-Find out [how to detect dehydration in babies and keep them hydrated](http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx).
+## Your pharmacist can help with flu 
 
-### Treating flu with medicine
+Your pharmacist can give treatment advice and recommend flu remedies. 
 
-To help treat aches and high a temperature you can take paracetamol and ibuprofen.
+Be careful not to use them if you’re taking paracetamol and ibuprofen tablets as it’s easy to take more than the recommended dose. 
 
-You can get flu medicines from a pharmacist. Like a GP, they can explain which flu medicines to take and explain how to take them.
+Speak to your pharmacist before giving medicines to children. 
 
 !!! info_compact
-  [Get flu medicines and free advice from your nearest pharmacist](https://beta.nhs.uk/finders/find-help)
+  [Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help)
 !!!
 
 !!! attention
   ## See a GP if: 
-  * your symptoms don’t improve after 7 days
-  * your temperature is 38C or above
-  * you’re concerned about your child’s symptoms
-  * you're 65 years old or over
-  * you're pregnant 
-  * you have a long-term medical condition – for example, diabetes or a heart, lung, kidney or neurological disease
-  * you have a weak immune system – for example, because of chemotherapy or HIV
+
+  - your symptoms don’t improve after 7 days
+  - your temperature is 38C or above
+  - you’re concerned about your child’s symptoms 
+  - you're 65 or over
+  - you're pregnant 
+  - you have a long-term medical condition – for example, diabetes or a heart, lung, kidney or neurological disease
+  - you have a weakened immune system – for example, because of chemotherapy or HIV
   <hr>
   
   It's easy to spread flu. Phone your GP and check before going in.
 !!!
+
+### Antibiotics
+
+GPs don’t usually recommend antibiotics for flu because they won’t relieve your symptoms or speed up your recovery.
