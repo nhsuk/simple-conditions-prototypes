@@ -70,7 +70,7 @@ They can help with:
 Your pharmacist can give advice which ones are best for you. 
 
 !!! info_compact
-[Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help?context=stomach-ache)
+[Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help)
 !!!
 
 !!! attention
