@@ -25,18 +25,32 @@ It can appear anywhere on the body and spread, but it’s not infectious to othe
 
 The main thing to do is keep your skin cool so that you don’t sweat and irritate the rash. 
 
-To keep your skin cool: 
+<article class="panel">
+  <div class="panel__header">
+    <h3>To keep your skin cool:</h3>
+  </div>
+  <div class="panel__content">
+    <ul class="list--chevron">
+      <li>wear loose cotton clothing</li>
+      <li>use lightweight bedding</li>
+      <li>take cool baths or showers</li>
+      <li>drink plenty of fluid to avoid dehydration</li>
+    </ul>
+  </div>
+</article>
 
-- wear loose cotton clothing
-- use lightweight bedding
-- take cool baths or showers
-- drink plenty of fluid to avoid dehydration
-
-To calm the itching or prickly rash:
-
-- apply something cold such as a damp cloth or ice pack (for no more than 20 minutes)
-- tap or pat the rash instead of scratching it
-- don’t use perfumed shower gels or creams
+<article class="panel">
+  <div class="panel__header">
+    <h3>To calm the itching or prickly rash:</h3>
+  </div>
+  <div class="panel__content">
+    <ul class="list--chevron">
+      <li>apply something cold such as a damp cloth or ice pack (for no more than 20 minutes)</li>
+      <li>tap or pat the rash instead of scratching it</li>
+      <li>don’t use perfumed shower gels or creams</li>
+    </ul>
+  </div>
+</article>
 
 
 ## Your pharmacist can help with heat rash
