@@ -18,15 +18,15 @@
 
 ::: reveal See what piles look like
 
-![](http://placekitten.com/630/420)
+![Small piles](/images/piles/piles-small_640.jpg)
 
 They can be small lumps, around the size of a pea
 
-![](http://placekitten.com/630/420)
+![Pink piles](/images/piles/piles-pink_640.jpg)
 
 They can be pink or purple
 
-![](http://placekitten.com/630/420)
+![Large piles](/images/piles/piles-large_640.jpg)
 
 They can grow into larger lumps, the size of grapes
 
@@ -52,7 +52,6 @@ To keep your poo soft, help you to go to the toilet regularly and stop your pile
 
 
 ## Your pharmacist can help with piles
-
 
 To relieve swelling, itching and pain you can buy:
 

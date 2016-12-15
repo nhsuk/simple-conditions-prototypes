@@ -15,7 +15,7 @@ To reduce swelling and help the stye heal:
 - hold it against your eye for 5 to 10 minutes
 - repeat this 3 or 4 times a day 
 
-To relieve the pain, take painkillers such as [paracetamol] (http://www.nhs.uk/Conditions/Painkillers-paracetamol/Pages/Introduction.aspx) or [ibuprofen](http://www.nhs.uk/conditions/painkillers-ibuprofen/Pages/Introduction.aspx). These are available to buy in supermarkets and pharmacies. Don’t give aspirin to children under 16.
+To relieve the pain, take painkillers such as [paracetamol](http://www.nhs.uk/Conditions/Painkillers-paracetamol/Pages/Introduction.aspx) or [ibuprofen](http://www.nhs.uk/conditions/painkillers-ibuprofen/Pages/Introduction.aspx). These are available to buy in supermarkets and pharmacies. Don’t give aspirin to children under 16.
 
 Avoid wearing contact lenses and eye makeup until the stye has burst and healed.
 
