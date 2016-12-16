@@ -44,7 +44,7 @@ Read the information leaflet in the packet before you take antihistamines.
 They may prescribe corticosteroids, menthol cream or stronger antihistamines. If your hives don’t away with treatment they may refer you to a dermatologist.
 
 !!! alert
-  ## See someone urgently if:
+  ## See a GP someone urgently if:
   - You have a swelling under the skin
   - And a hives rash
 

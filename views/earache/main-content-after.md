@@ -33,7 +33,7 @@ How long it lasts depends on what’s causing it.  Most earaches in children are
 
 Earache and pain can be caused by many things, sometimes the cause isn’t known. Here are some of the most common causes: 
 
-<dl class="list--compare">
+<dl>
 
   <dt>Ear pain with toothache</dt>
   <dd>Children teething</dd>

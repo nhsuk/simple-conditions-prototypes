@@ -2,7 +2,7 @@ Mouth ulcers aren’t contagious and they shouldn't be confused with [cold sores
 
 If you have several mouth ulcers, this can be a symptom of:
 
-- hand, foot and mouth disease - which also causes a rash on the hands and feet
+- [hand, foot and mouth disease](https://beta.nhs.uk/conditions/hand-foot-and-mouth-disease) - which also causes a rash on the hands and feet
 - oral lichen planus - which causes a white, lacy pattern inside the cheeks
 
 ## You can’t always prevent mouth ulcers

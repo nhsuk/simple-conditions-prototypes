@@ -1,4 +1,22 @@
-## What causes constipation {id=adults}
+## Check if it is constipation {id=check}
+
+It’s likely to be constipation if:
+
+- you or your child haven’t had a poo at least three times in a week
+- the poo is often difficult to push out and larger than usual
+- the poo is often dry, hard or lumpy
+
+However, it’s not unusual for a breastfeeding baby to go a week without passing a stool.
+
+You may also have a [stomach ache](http://www.nhs.uk/Conditions/stomach-ache-abdominal-pain/Pages/Introduction.aspx) and feel bloated or sick.
+
+Things to look out for in babies and toddlers includes:
+
+- a lack of energy
+- being irritable, angry or unhappy
+- [soiling their clothes](http://www.nhs.uk/Conditions/encopresis/Pages/Introduction.aspx)
+
+## What causes constipation {id=causes}
 
 Constipation in adults has many possible causes. Sometimes there is no obvious reason. 
 
@@ -10,32 +28,39 @@ The most common causes include:
 - often ignoring the urge to go to the toilet
 - changing your diet or daily routine
 - stress, anxiety or depression
+- a side effect of medication
 
-If you are taking any medication, check the side effects. Constipation is a common side effect.
+Constipation is also common during pregnancy and for six weeks after giving birth.
 
-### Pregnancy
+In much rarer cases, constipation may be caused by a medical condition.
 
-Pregnancy is a common cause of constipation, especially during the early stages. 
+## How you can treat constipation yourself {id=adults}
 
-This is because a hormone called progesterone is produced more during pregnancy. This make it difficult for the bowel muscles to work properly.
+Simple changes to your diet and lifestyle can help treat constipation. It’s safe to try these simple measure when you’re pregnant.
 
-There is also a higher risk of constipation for 6 weeks after having a baby. This is known as the postpartum stage.
+You may notice a difference within a few days. Sometimes it takes a few weeks before your symptoms improve.
 
-::: reveal Conditions that can cause constipation
-  In rare cases, constipation can be caused by:
-  - [irritable bowel syndrome (IBS)](#)
-  - [diabetes](#)
-  - hypercalcaemia – where there's too much calcium in the bloodstream
-  - [underactive thyroid gland (hypothyroidism)](#)
-  - [muscular dystrophy](#)
-  - [multiple sclerosis](#)
-  - [Parkinson's disease](#)
-  - spinal cord injury
-  - [anal fissure](#) – a small tear or ulcer in the skin just inside the anus
-  - [inflammatory bowel disease](#)
-  - [bowel cancer](#)
-:::
+### Make changes to your diet
 
+To make your poo softer and easier to pass:
+
+drink plenty of fluids and avoid alcohol
+increase the fibre in your diet 
+add some wheat bran to your diet
+
+### Increase your activity
+
+A daily walk or run can help you to poo more regularly.
+
+[Getting started with exercise](http://www.nhs.uk/livewell/getting-started-guides/Pages/getting-started-guides.aspx)
+[Getting active with a disability or long-term condition](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx)
+[Exercise during pregnancy](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/pregnancy-exercise.aspx)
+
+### Improve your toilet routine
+
+Keep to a regular time and place and give yourself plenty of time to use the toilet. Don’t delay if you feel the urge to poo.
+
+To make it easier to poo, try resting your feet on a low stool while going to the toilet. If possible, raise your knees above your hips.
 
 ## Babies and toddlers: what causes constipation {id=babies}
 
@@ -53,161 +78,77 @@ The most common causes include:
 - not drinking enough fluids
 - over-feeding - including giving babies too much milk
 - fear or anxiety about using the toilet - at home or at school
-- poor toilet training - such as feeling pressured or being regularly interrupted
+- poor potty training - such as feeling pressured or being regularly interrupted
 
-::: reveal Conditions that can cause constipation in babies and toddlers
+In much rarer cases, constipation in babies and toddlers may be caused by a medical condition.
 
-  In rare cases, constipation in babies and toddlers can be caused by:
+## Babies and toddlers: treating constipation
 
-  - [Hirschsprung's disease](http://www.nhs.uk/conditions/Hirschsprungs-disease/Pages/Introduction.aspx) – which affects the bowel, making it difficult to pass stools
-  - anorectal malformation – where the baby's anus and rectum don't form properly
-  - spinal cord abnormalities – including rare conditions such as [spina bifida](http://www.nhs.uk/conditions/Spina-bifida/Pages/Introduction.aspx) and [cerebral palsy](http://www.nhs.uk/conditions/Cerebral-palsy/Pages/Introduction.aspx)
-  - [cystic fibrosis](http://www.nhs.uk/conditions/Cystic-fibrosis/Pages/Introduction.aspx)
-
-:::
-
-
-## How you can treat constipation yourself  {id=treating_adults}
-
-It’s usually possible to treat constipation at home with some simple changes to your diet and lifestyle. If you’re pregnant, it’s still safe to try these measures first.
-
-You may notice a difference within a few days. Sometimes it takes a few weeks before your symptoms improve.
-
-### Diet
-
-Drink plenty of fluids to avoid [dehydration](http://www.nhs.uk/Conditions/dehydration/Pages/Introduction.aspx). Avoid alcohol while you’re constipated.
-
-Try to increase the fibre in your diet by eating at least five portions of fresh fruit and vegetables a day. Other high-fibre foods will also help, such as:
-
-- wholegrain breakfast cereal
-- wholemeal bread
-- wholegrain pasta
-- brown rice
-
-Adding some wheat bran to your diet will also help to make your stools softer and easier to pass.
-
-Read some ideas about: 
-
-- [getting more fibre into your diet](http://www.nhs.uk/Livewell/Goodfood/Pages/how-to-get-more-fibre-into-your-diet.aspx)
-- [healthy breakfast cereals](http://www.nhs.uk/Livewell/Goodfood/Pages/healthy-breakfast-cereals-low-in-sugar-fat-salt.aspx)
-- [what counts towards your five a day](http://www.nhs.uk/Livewell/5ADAY/Pages/Whatcounts.aspx)
-
-### Exercise
-
-Try to increase your activity or the amount of exercise you do. A daily walk or run can help you to poo more regularly.
-
-Read some ideas about:
-
-- [getting started with exercise](http://www.nhs.uk/livewell/getting-started-guides/Pages/getting-started-guides.aspx)
-- [getting active with a disability or long-term condition](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx)
-- [exercise during pregnancy](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/pregnancy-exercise.aspx)
-
-### Toilet routine
-
-Give yourself plenty of time to go to the toilet while you’re constipated. Try to keep to a routine and don’t delay using the toilet if you feel the urge to poo.
-
-Try resting your feet on a low stool while going to the toilet, so your knees are above your hips. This can make passing stools easier.
-
-### Medication
-
-If your constipation is caused by medication, it should ease once you have finished taking it.
-
-Speak to your doctor before you stop taking any prescribed medication.
-
-
-## Babies and toddlers: treating constipation {id=treating_babies}
-
-It’s usually possible to treat your baby or toddler at home with some simple changes to their diet and a positive toilet routine.
+Simple changes to your child’s diet and potty training can help treat constipation.
 
 You may notice a difference within a few days. Sometimes it takes a few weeks before their symptoms improve.
 
-### Diet
+### Make changes to your child’s diet
 
-If your baby is constipated but hasn't started to eat solid foods, give them extra water between their normal feeds. If you’re using formula milk, don’t add more water to the mixture.
+Give your baby extra water between their normal feeds if they haven’t started to eat solid food yet. If you’re using formula milk, don’t add more water to the mixture.
 
-You may want to try gently moving your baby's legs in a bicycling motion or carefully massaging their tummy to help stimulate their bowels.
+Try gently moving your baby's legs in a bicycling motion or carefully massaging their tummy to help stimulate their bowels.
 
-If your baby is constipated and eating solid foods, give them plenty of fluids. Encourage them to eat fruit and chop or puree if it’s easier for them to eat. It’s important not to force your child to eat so they aren’t stressed.
+Give older children plenty of fluids and encourage them to eat fruit. Chop or puree it if it’s easier for them to eat. The best fruits for constipation include apples, grapes, pears and strawberries.
 
-The best fruits for constipation include apples, grapes, pears and strawberries.
+Don’t force your child to eat as this can make mealtimes stressful.
 
-Read more about [what to feed young children](http://www.nhs.uk/Conditions/pregnancy-and-baby/Pages/understanding-food-groups.aspx#fruit).
+[What to feed young children](http://www.nhs.uk/Conditions/pregnancy-and-baby/Pages/understanding-food-groups.aspx)
 
-### Toilet routine
+### Helping your child with potty training
 
 Some children feel anxious or stressed about using the toilet. This can cause them to hold in their poo and lead to constipation.
 
 This usually happens during potty training or if their usual toilet routine has changed. For example, after moving house or starting nursery.
 
-It’s important to give your child plenty of time to use the toilet and avoid making them feel stressed or under pressure. Try not to be angry while they are still learning.
+Give your child plenty of time to use the toilet while they are still learning. Encourage them when they do use the toilet. Some parents find a reward chart works.
 
-It may help to encourage your child when they use the toilet to create a positive toilet routine. Some parents find a reward chart works.
+[Potty training tips](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/potty-training-tips.aspx)
 
-Read some ideas about:
-
-- [potty training tips](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/potty-training-tips.aspx)
-- [how to solve common potty training problems](http://www.nhs.uk/Conditions/pregnancy-and-baby/Pages/potty-training-problems.aspx)
-
-## Your pharmacist can help with constipation
+## Your pharmacist can help with constipation {id=pharmacist}
 
 Speak to your pharmacist if diet and lifestyle changes aren’t helping. They can suggest a suitable laxative. These are medicines which help you poo more regularly.
 
-Most laxatives work within two to three days but some work within 6 to 12 hours. They should only be used for a short period of time.
+Most laxatives work within 3 days. They should only be used for a short period of time.
 
 Laxatives are not recommended for children unless they are prescribed by your GP.
 
-Read about the [different types of laxatives and how they work](https://www.nhs.uk/conditions/laxatives/Pages/Introduction.aspx).
+[Different types of laxatives and how they work](https://www.nhs.uk/conditions/laxatives/Pages/Introduction.aspx)
 
 !!! info_compact
 [Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help)
 !!!
 
 !!! attention
-  ## See a GP if:
-  - your baby or toddler is constipated
-  - treatment at home isn’t helping to ease your symptoms
-  - you’re regularly constipated and it lasts a long time 
-  - you have [blood in your poo](http://www.nhs.uk/conditions/rectal-bleeding/Pages/Introduction.aspx)
-  - you notice you have lost a lot of weight
-  - you feel very tired all the time
+## See a GP if you or your child:
+-are not improving with treatment
+-are regularly constipated and it lasts a long time 
+-have [blood in your poo](http://www.nhs.uk/conditions/rectal-bleeding/Pages/Introduction.aspx)
+-have unexpectedly lost weight
+-feel very tired all the time
+
+***
+Speak to your doctor before you stop taking any prescribed medication.
 !!!
 
-::: reveal Long-term constipation can lead to faecal impaction. 
-  Faecal impaction is where poo has built up in your rectum. The main symptom is [diarrhoea](http://www.nhs.uk/conditions/diarrhoea/pages/introduction.aspx) after a long bout of constipation.
-
-  Faecal impaction may be treated with: 
-
-  - stronger laxatives - prescribed by your GP
-  - a suppository - medicine you place in your bottom 
-  - a mini enema - where fluid is passed through your bottom, into your bowel
-  - a doctor removing some of the poo
-:::
-
-!!!info_compact
+!!!info
 If you’re not sure what to do, call 111.
 !!!
 
+## Complications of long-term constipation {id=complications}
 
-## Check if it is constipation {id=check}
+Long-term constipation can lead to faecal impaction. 
 
-It’s likely to be constipation if:
+Faecal impaction is where poo has built up in your rectum. The main symptom is [diarrhoea](http://www.nhs.uk/conditions/diarrhoea/pages/introduction.aspx) after a long bout of constipation.
 
-- you or your child haven’t had a poo at least three times in a week
-- the poo is often difficult to push out and larger than usual
-- the poo is often dry, hard or lumpy
+Faecal impaction may be treated with: 
 
-However, it’s not unusual for a breastfeeding baby to go a week without passing a stool.
-
-Other symptoms of constipation include:
-
-- [stomach ache and cramps](http://www.nhs.uk/Conditions/stomach-ache-abdominal-pain/Pages/Introduction.aspx)
-- feeling bloated
-- feeling sick
-- loss of appetite
-
-Other symptoms of constipation in babies and toddlers include:
-
-- a lack of energy
-- being irritable, angry or unhappy
-- foul-smelling wind and poo
-- [soiling their clothes](http://www.nhs.uk/Conditions/encopresis/Pages/Introduction.aspx)
+-stronger laxatives - prescribed by your GP
+-a suppository - medicine you place in your bottom 
+-a mini enema - where fluid is passed through your bottom, into your bowel
+-a doctor removing some of the poo

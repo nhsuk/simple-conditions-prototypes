@@ -1,6 +1,6 @@
-## You can treat diarrhoea yourself {id=adults}
+## How you can treat diarrhoea yourself {id=adults}
 
-Diarrhoea will go away on its own after a few days. It’s normal to have stomach cramps and headaches. 
+Diarrhoea should go away on its own within a few days. It’s normal to also have stomach cramps and headaches. 
 
 It’s important that you drink enough fluids to [avoid dehydration](http://www.nhs.uk/Conditions/dehydration/Pages/Introduction.aspx). Your pee should be light yellow or clear.
 
@@ -13,7 +13,7 @@ To help with headaches or fevers you can take painkillers like paracetamol or ib
 
 ## Your pharmacist can help with diarrhoea  
 
-You can take medicines to help reduce the diarrhoea slightly and shorten it. However, you don’t have to take these and they won’t cure your diarrhoea. 
+You can take medicines to reduce the diarrhoea and shorten how long it lasts. However, you don’t have to take these and they won’t cure your diarrhoea. 
 
 Describe your symptoms to your pharmacist. They can recommend the best medicine for you.
 
@@ -26,7 +26,6 @@ Frail or elderly people can dehydrate more easily. You can get sachets with salt
 
 !!! attention
  ## See a GP if:
-
   - you feel very sick and keep vomiting 
   - you have no appetite and you’re losing weight
   - your poo is very dark and smelly (this may indicate blood in your poo) 
@@ -34,7 +33,7 @@ Frail or elderly people can dehydrate more easily. You can get sachets with salt
   - you have recently taken antibiotics or been treated in hospital
 
 ***
-Diarrhoea can be infectious. Check with your GP if you should come in, they may suggest a phone consultation. 
+Diarrhoea can be infectious. Check with your GP before you go in. They may suggest a phone consultation. 
 !!!
 
 
@@ -50,7 +49,7 @@ You can often safely look after your baby or toddler at home. However it’s ver
         <li>give them enough to drink in small sips - they <a href="http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx">dehydrate very quickly</a></li>
         <li>continue breastfeeding or formula as normal</li>
         <li>to ease the pain you can give liquid paracetamol for children</li>
-        <li>if your child is having solid foods, offer them food as usual if they want it</li>
+        <li>if your child is eating solid foods, offer them their usual food if they want it</li>
       </ul>
     </div>
   </article>
@@ -76,13 +75,12 @@ You can often safely look after your baby or toddler at home. However it’s ver
   - still have diarrhoea after 5 to 7 days
 
   ***
-  Diarrhoea can be infectious. Check with your GP if you should come in, they may suggest a phone consultation. 
+  Diarrhoea can be infectious. Check with your GP before you go in. They may suggest a phone consultation.  
 !!!
 
 
 !!! alert
-  ## Take your baby or toddler to the GP urgently
-  If they:
+  ## Take your baby or toddler to the GP urgently if they:
   - have a high temperature and you can’t bring it down - over 38C (under 3 months), over 39C (3 to 6 months)
   - have blood or mucus in their poo
   - have severe abdominal pain
@@ -108,7 +106,7 @@ Diarrhoea can be infectious. To avoid giving it to other people you should:
 
 Symptoms for adults and children include: 
 
-- watery or loose poos
+- watery or loose poo
 - stomach cramps
 - feeling sick and vomiting  
 - headache
@@ -135,11 +133,11 @@ If you’re taking any meds, check for side effects. Diarrhoea might be one of t
 :::
 
 
-## Preventing diarrhoea {id=prevention}
+## You can’t always prevent diarrhoea {id=prevention}
 
-You can’t prevent diarrhoea or getting it again. However, good [food hygiene](https://www.food.gov.uk/) can reduce the risk of getting it. 
+However, good [food hygiene](https://www.food.gov.uk/) can reduce the risk of getting it. 
 
-While you have it you should: 
+While you have diarrhoea: 
 
 - wash your hands well every time you’ve been to the toilet  
 - clean the toilet after you’ve gone
@@ -148,4 +146,4 @@ While you have it you should:
 
 As part of their [routine childhood vaccination](http://www.nhs.uk/Conditions/vaccinations/Pages/rotavirus-vaccine.aspx) children are vaccinated against the rotavirus virus which causes diarrhoea. 
 
-There are things you can do to help [prevent diarrhoea when you travel](http://travelhealthpro.org.uk/countries).
+[Help prevent diarrhoea when you travel](http://www.fitfortravel.nhs.uk/advice/disease-prevention-advice/travellers-diarrhoea.aspx#prevention)

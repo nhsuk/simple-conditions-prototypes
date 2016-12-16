@@ -24,20 +24,14 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoiding things that 
       <h3>Don’t</h3>
       <ul class="list--cross">
         <li>eat very spicy, salty or acidic food</li>
-        <li>eat rough, crunchy food - such as toast or crisps</li>
-        <li>drink very hot or acidic drinks - such as fruit juice</li>
+        <li>eat rough, crunchy food, such as toast or crisps</li>
+        <li>drink very hot or acidic drinks, such as fruit juice</li>
         <li>use chewing gum</li>
         <li>use toothpaste containing sodium lauryl sulphate</li>
       </ul>
     </div>
   </div>
 </article>
-
-If you’re still in pain, speak to your pharmacist.
-
-!!! info_compact
-[Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help). 
-!!!
 
 ## Your pharmacist can help with mouth ulcers
 
@@ -49,8 +43,8 @@ Your pharmacist may suggest a treatment to speed up healing, prevent infection o
 
 These can be bought without a prescription but may not always work.
 
-!!!info_compact
-If you’re not sure what to do, call 111.
+!!! info_compact
+[Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help)
 !!!
 
 !!! attention
@@ -60,10 +54,9 @@ If you’re not sure what to do, call 111.
   - lasts longer than three weeks
   - keeps coming back
   - becomes more painful and red - this may be a sign of an infection
-  
-  ***
-  Your GP or dentist may prescribe stronger medication to treat severe, recurrent or infected mouth ulcers.
 !!!
+
+Your GP or dentist may prescribe stronger medication to treat severe, recurrent or infected mouth ulcers.
 
 Although most mouth ulcers are harmless, a long-lasting mouth ulcer is sometimes a sign of mouth cancer. It’s best to get it checked.
 
