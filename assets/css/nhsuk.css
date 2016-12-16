@@ -86,7 +86,6 @@ fieldset,
 legend,
 figure,
 table,
-.table--compare,
 th,
 td,
 caption,
@@ -95,7 +94,7 @@ hr {
   padding: 0;
 }
 
-html, body, button, input, table, .table--compare, td, th {
+html, body, button, input, table, td, th {
   font-family: "Frutiger W01", Arial, sans-serif;
 }
 
@@ -787,42 +786,42 @@ p {
   }
 }
 
-table, .table--compare {
+table {
   border-collapse: collapse;
   border-spacing: 0;
   margin: 16px 0 32px;
   width: 100%;
 }
 
-table th, .table--compare th,
-table td, .table--compare td {
+table th,
+table td {
   font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
   text-transform: none;
-  border-bottom: 2px solid #eff1f2;
+  border-bottom: 2px solid #d9e1e2;
   padding: 16px 16px 16px 0;
   vertical-align: top;
 }
 
 @media (min-width: 641px) {
-  table th, .table--compare th,
-  table td, .table--compare td {
+  table th,
+  table td {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
 @media (min-width: 925px) {
-  table th, .table--compare th,
-  table td, .table--compare td {
+  table th,
+  table td {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
-table th, .table--compare th {
+table th {
   font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 20px;
   font-weight: 600;
@@ -832,14 +831,14 @@ table th, .table--compare th {
 }
 
 @media (min-width: 641px) {
-  table th, .table--compare th {
+  table th {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
 @media (min-width: 925px) {
-  table th, .table--compare th {
+  table th {
     font-size: 20px;
     line-height: 32px;
   }
@@ -850,42 +849,43 @@ table th, .table--compare th {
   overflow-y: scroll;
 }
 
-.table--horizontal-scroll table, .table--horizontal-scroll .table--compare {
+.table--horizontal-scroll table {
   min-width: 500px;
   margin: 0;
 }
 
-.table--compare tr:nth-child(even) {
-  background-color: #f7f8f9;
+.table--striped th {
+  background-color: #fff;
 }
 
-.table--compare th, .table--compare td {
-  font-family: "Frutiger W01", Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 24px;
-  text-transform: none;
-  text-align: left;
-  padding-left: 8px;
+.table--striped tr:nth-child(odd) td {
+  background-color: #eff1f2;
 }
 
-@media (min-width: 641px) {
-  .table--compare th, .table--compare td {
-    font-size: 16px;
-    line-height: 24px;
+.table--compare th,
+.table--compare td {
+  width: 50%;
+}
+
+@media (max-width: 640px) {
+  .table--compare {
+    display: block;
   }
-}
-
-@media (min-width: 925px) {
-  .table--compare th, .table--compare td {
-    font-size: 16px;
-    line-height: 24px;
+  .table--compare thead,
+  .table--compare tbody,
+  .table--compare tr,
+  .table--compare th,
+  .table--compare td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 0;
   }
-}
-
-.table--compare ul {
-  list-style-type: none;
-  padding-left: 0;
+  .table--compare th:nth-child(odd),
+  .table--compare td:nth-child(odd) {
+    display: none;
+    /* not accessible!! */
+  }
 }
 
 blockquote {
@@ -1663,16 +1663,16 @@ strong {
   }
 }
 
-table.panel, .panel.table--compare {
+table.panel {
   table-layout: fixed;
 }
 
-table.panel th, .panel.table--compare th,
-table.panel td, .panel.table--compare td {
+table.panel th,
+table.panel td {
   padding: 16px;
 }
 
-table.panel th, .panel.table--compare th {
+table.panel th {
   background-color: #d9e1e2;
 }
 
@@ -2029,7 +2029,7 @@ table.panel th, .panel.table--compare th {
   display: block;
 }
 
-.font-small, .table--compare ul {
+.font-small {
   font-family: "Frutiger W01", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -2038,14 +2038,14 @@ table.panel th, .panel.table--compare th {
 }
 
 @media (min-width: 641px) {
-  .font-small, .table--compare ul {
+  .font-small {
     font-size: 16px;
     line-height: 24px;
   }
 }
 
 @media (min-width: 925px) {
-  .font-small, .table--compare ul {
+  .font-small {
     font-size: 16px;
     line-height: 24px;
   }

@@ -17,24 +17,28 @@ Heat exhaustion can lead to heat stroke if left untreated.
 
 ::: reveal The difference between heat exhaustion and heat stroke 
 
-<article class="panel panel--compare">
-  <header class="grid-row">
-    <div class="column--one-half"><h3>Heat exhaustion</h3></div>
-    <div class="column--one-half"><h3>Heat stroke</h3></div>
-  </header>
-  <div class="grid-row">
-    <div class="column--one-half">Temperature 37C to under 40C</div>
-    <div class="column--one-half">Temperature 40C and above</div>
-  </div>
-  <div class="grid-row">
-    <div class="column--one-half">Pale cool clammy skin</div>
-    <div class="column--one-half">Dry hot skin</div>
-  </div>
-  <div class="grid-row">
-    <div class="column--one-half">Excessive sweating</div>
-    <div class="column--one-half">Not sweating </div>
-  </div>
-</article>
+<table class="table--compare table--striped">
+  <thead>
+    <tr>
+      <th><h3>Heat exhaustion</h3></th>
+      <th><h3>Heat stroke</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Temperature 37C to under 40C</td>
+      <td>Temperature 40C and above</td>
+    </tr>
+    <tr>
+      <td>Pale cool clammy skin</td>
+      <td>Dry hot skin</td>
+    </tr>
+    <tr>
+      <td>Excessive sweating</td>
+      <td>Not sweating </td>
+    </tr>
+  </tbody>
+</table>
 
 :::
 
