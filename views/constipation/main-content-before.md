@@ -44,17 +44,17 @@ You may notice a difference within a few days. Sometimes it takes a few weeks be
 
 To make your poo softer and easier to pass:
 
-drink plenty of fluids and avoid alcohol
-increase the fibre in your diet 
-add some wheat bran to your diet
+- drink plenty of fluids and avoid alcohol
+- increase the fibre in your diet 
+- add some wheat bran to your diet
 
 ### Increase your activity
 
 A daily walk or run can help you to poo more regularly.
 
-[Getting started with exercise](http://www.nhs.uk/livewell/getting-started-guides/Pages/getting-started-guides.aspx)
-[Getting active with a disability or long-term condition](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx)
-[Exercise during pregnancy](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/pregnancy-exercise.aspx)
+- [Getting started with exercise](http://www.nhs.uk/livewell/getting-started-guides/Pages/getting-started-guides.aspx)
+- [Getting active with a disability or long-term condition](http://www.nhs.uk/Livewell/fitness/Pages/get-active-with-a-disability-or-a-long-term-condition.aspx)
+- [Exercise during pregnancy](http://www.nhs.uk/conditions/pregnancy-and-baby/pages/pregnancy-exercise.aspx)
 
 ### Improve your toilet routine
 
@@ -126,17 +126,17 @@ Laxatives are not recommended for children unless they are prescribed by your GP
 
 !!! attention
 ## See a GP if you or your child:
--are not improving with treatment
--are regularly constipated and it lasts a long time 
--have [blood in your poo](http://www.nhs.uk/conditions/rectal-bleeding/Pages/Introduction.aspx)
--have unexpectedly lost weight
--feel very tired all the time
+- are not improving with treatment
+- are regularly constipated and it lasts a long time 
+- have [blood in your poo](http://www.nhs.uk/conditions/rectal-bleeding/Pages/Introduction.aspx)
+- have unexpectedly lost weight
+- feel very tired all the time
 
 ***
 Speak to your doctor before you stop taking any prescribed medication.
 !!!
 
-!!!info
+!!!info_compact
 If you’re not sure what to do, call 111.
 !!!
 
@@ -148,7 +148,7 @@ Faecal impaction is where poo has built up in your rectum. The main symptom is [
 
 Faecal impaction may be treated with: 
 
--stronger laxatives - prescribed by your GP
--a suppository - medicine you place in your bottom 
--a mini enema - where fluid is passed through your bottom, into your bowel
--a doctor removing some of the poo
+- stronger laxatives - prescribed by your GP
+- a suppository - medicine you place in your bottom 
+- a mini enema - where fluid is passed through your bottom, into your bowel
+- a doctor removing some of the poo
