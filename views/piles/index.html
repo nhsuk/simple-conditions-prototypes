@@ -1,14 +1,8 @@
-{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+{% extends '_layouts/content-simple.nunjucks' %}
 
 {% set title = 'Piles (haemorrhoids)' %}
 {% set intro = 'Piles (haemorrhoids) are swellings inside or around the bottom. They are common and often clear up on their own after a few days.' %}
 
-{% block content_sidebar_flow_before %}
-  {% markdown "piles/main-content-before.md" %}
-{% endblock %}
-
-{% block sidebar %}
-{% endblock %}
-
-{% block content_sidebar_flow_after %}
+{% block main_content %}
+  {% markdown "piles/main-content.md" %}
 {% endblock %}

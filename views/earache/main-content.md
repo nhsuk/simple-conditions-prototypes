@@ -1,4 +1,40 @@
+Earache and pain may come and go and it can affect both ears at one time.
 
+## How to treat earache yourself 
+
+To help relieve the pain and discomfort: 
+
+<article class="panel panel--binary">
+  <div class="panel__column">
+    <div class="panel__content">
+      <h3>Do</h3>
+      <ul class="list--check">
+        <li>use painkillers such as paracetamol or ibuprofen (children under 16 shouldn’t take aspirin)</li>
+        <li>place a warm or cold flannel on the ear</li>
+      </ul>
+    </div>
+  </div>
+  <div class="panel__column">
+    <div class="panel__content">
+      <h3>Don’t</h3>
+      <ul class="list--cross">
+        <li>put anything inside your ear, such as cotton buds</li>
+        <li>try to remove earwax yourself</li>
+        <li>let water get inside your ear</li>
+      </ul>
+    </div>
+  </div>
+</article>
+
+## Your pharmacist can help with earaches
+
+They can give advice and recommend treatments, such as eardrops. 
+
+!!! info_compact
+[Find your nearest pharmacy](https://beta.nhs.uk/finders/find-help)
+!!!
+
+Call 111 for advice or if you’re not sure what to do.
 
 !!! attention
   ## See your GP if:
@@ -56,56 +92,3 @@ Earache and pain can be caused by many things, sometimes the cause isn’t known
   <dd>Cold</dd>
   
 </dl>
-
-<table class="table--compare">
-  
-  <tr>
-    <th>Symptom</th>
-    <th>Common cause</th>
-  </tr>
-
-  <tr>
-    <td>Ear pain with toothache</td>
-    <td>
-      <ul>
-          <li>Children teething</li>
-          <li>Dental abscess</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Ear pain with change in hearing</td>
-    <td>
-      <ul>
-        <li>Glue ear</li>
-        <li>Earwax build-up</li>
-        <li>An object stuck in the ear - do not try to remove it yourself, see your GP</li>
-        <li>Perforated eardrum - particularly after a loud noise or accident</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Ear pain with pain when swallowing</td>
-    <td>
-      <ul>
-        <li>Sore throat</li>
-        <li>Tonsilitis</li>
-        <li>Quinsy</li>
-      </ul>
-    </td>
-  </tr>
-
-   <tr>
-    <td>Ear pain with a fever</td>
-    <td>
-      <ul>
-        <li>Ear infection</li>
-        <li>Flu</li>
-        <li>Cold</li>
-      </ul>
-    </td>
-  </tr>
-
-</table>

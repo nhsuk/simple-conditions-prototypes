@@ -61,3 +61,40 @@ They should start to cool down and feel better within 30 minutes.
 !!! info_compact
 If you’re not sure what to do call 111. 
 !!!
+
+!!! severe
+## Call 999 if the person
+- is no better after 30 minutes 
+- feels hot and dry 
+- has a temperature of 40C or above
+- has rapid or shortness of breath 
+- is confused 
+- has a fit (seizure) 
+- loses consciousness
+- is unresponsive
+
+***
+These can be signs of heat stroke. 
+
+While you wait for help, keep giving first aid and [put them in the recovery position if they lose consciousness](http://www.nhs.uk/Conditions/Accidents-and-first-aid/Pages/The-recovery-position.aspx). 
+!!!
+
+## Preventing heat exhaustion and heat stroke 
+
+There is a high risk of heat exhaustion or heat stroke during hot weather or exercise. 
+
+To help prevent heat exhaustion or heat stroke:
+
+- drink plenty of cold drinks, especially when exercising
+- take cool baths or showers 
+- wear light-colored, loose clothing 
+- sprinkle water over skin or clothes 
+- avoid the sun between 11am and 3pm 
+- avoid excess alcohol 
+- avoid extreme exercise 
+
+This will also prevent dehydration and help your body keep itself cool. 
+
+Keep an eye on children, the elderly and people with long-term health conditions (like diabetes or heart problems) because they’re more at risk of heat exhaustion or heat stroke.
+
+[How to spot dehydration](#)

@@ -1,18 +1,9 @@
-{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+{% extends '_layouts/content-simple.nunjucks' %}
 
 {% set title = 'Dehydration' %}
 {% set intro = 'Dehydration means you haven’t had enough to drink and it starts to affect your body. In most cases it’s nothing serious.' %}
 {% set link_list = { 'Adults with dehydration': '#adults', 'Babies and toddlers with dehydration': '#babies' } %}
 
-
-{% block content_sidebar_flow_before %}
-  {% markdown "dehydration/main-content-before.md" %}
-{% endblock %}
-
-{% block sidebar %}
-  {% markdown "dehydration/sidebar-content.md" %}
-{% endblock %}
-
-{% block content_sidebar_flow_after %}
-  {% markdown "dehydration/main-content-after.md" %}
+{% block main_content %}
+  {% markdown "dehydration/main-content.md" %}
 {% endblock %}

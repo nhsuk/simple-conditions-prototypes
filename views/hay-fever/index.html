@@ -1,14 +1,8 @@
-{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+{% extends '_layouts/content-simple.nunjucks' %}
 
 {% set title = 'Hay fever' %}
 {% set intro = 'Hay fever is usually worse between late March and September, especially when it’s warm, humid and windy. This is the high pollen count season. ' %}
 
-{% block content_sidebar_flow_before %}
-  {% markdown "hay-fever/main-content-before.md" %}
-{% endblock %}
-
-{% block sidebar %}
-{% endblock %}
-
-{% block content_sidebar_flow_after %}
+{% block main_content %}
+  {% markdown "hay-fever/main-content.md" %}
 {% endblock %}

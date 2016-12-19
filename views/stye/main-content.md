@@ -1,3 +1,20 @@
+## Check if you have a stye
+
+<article>
+  <figure class="card">
+    <img src="/images/stye/stye-3.jpg" />
+    <figcaption class="card__caption"><p>A stye is a small, painful lump on the eyelid or around the eye</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/stye/stye-1.jpg" />
+    <figcaption class="card__caption"><p>The skin may be red, swollen and filled with yellow pus like a pimple</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/stye/stye-2.jpg" />
+    <figcaption class="card__caption"><p>Your eye may be red and watery but your vision should not be affected</p></figcaption>
+  </figure>
+</article>
+
 A stye usually only affects one eye but it’s possible to have more than one at a time.
 
 It’s probably not a stye if:

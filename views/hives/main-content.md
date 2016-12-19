@@ -1,3 +1,18 @@
+## Check if you have hives
+
+Hives can be different sizes and shapes and appear anywhere on the body in both adults and children. The rash is often raised and itchy and sometimes feels like it’s stinging or burning. 
+
+<article>
+  <figure class="card">
+    <img src="/images/hives/hives-2.jpg" />
+    <figcaption class="card__caption"><p>Hives can look like red, raised patches</p></figcaption>
+  </figure>
+  <figure class="card">
+    <img src="/images/hives/hives-1.jpg" />
+    <figcaption class="card__caption"><p>The rash can be red spots</p></figcaption>
+  </figure>
+</article>
+
 ::: reveal Other rashes that aren’t hives
   - [Rashes in babies and children](https://beta.nhs.uk/symptoms/rashes-in-babies-and-children)  
   - [Prickly heat](http://www.nhs.uk/Conditions/prickly-heat/Pages/Introduction.aspx)

@@ -1,16 +1,10 @@
-{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+{% extends '_layouts/content-simple.nunjucks' %}
 
 {% set title = 'Diarrhoea' %}
 {% set intro = 'Diarrhoea goes away on it’s own within a few days. Make sure you or your child drink plenty of fluids.' %}
 {% set link_list = { 'Adults with diarrhoea': '#adults', 'Babies and toddlers with diarrhoea': '#babies', 'How long diarrhoea lasts': '#length', 'What causes diarrhoea': '#causes', 'Preventing diarrhoea': '#prevention' } %}
 
 
-{% block content_sidebar_flow_before %}
-  {% markdown "diarrhoea/main-content-before.md" %}
-{% endblock %}
-
-{% block sidebar %}
-{% endblock %}
-
-{% block content_sidebar_flow_after %}
+{% block main_content %}
+  {% markdown "diarrhoea/main-content.md" %}
 {% endblock %}

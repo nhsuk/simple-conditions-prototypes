@@ -1,15 +1,9 @@
-{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+{% extends '_layouts/content-simple.nunjucks' %}
 
 {% set title = 'Nosebleeds' %}
 {% set intro = 'Nosebleeds aren’t usually a sign of anything serious. They’re common, particularly in children, and most can be easily treated at home.' %}
 
 
-{% block content_sidebar_flow_before %}
-  {% markdown "nosebleeds/main-content-before.md" %}
-{% endblock %}
-
-{% block sidebar %}
-{% endblock %}
-
-{% block content_sidebar_flow_after %}
+{% block main_content %}
+  {% markdown "nosebleeds/main-content.md" %}
 {% endblock %}

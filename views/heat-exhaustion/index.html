@@ -1,16 +1,8 @@
-{% extends '_layouts/content-sidebar-flow.nunjucks' %}
+{% extends '_layouts/content-simple.nunjucks' %}
 
 {% set title = 'Heat exhaustion' %}
 {% set intro = 'Heat exhaustion and heat stroke are serious if not treated quickly. You should give first aid and call 999 if you think there are signs of heat stroke.' %}
 
-{% block content_sidebar_flow_before %}
-  {% markdown "heat-exhaustion/main-content-before.md" %}
-{% endblock %}
-
-{% block sidebar %}
-  {% markdown "heat-exhaustion/sidebar-content.md" %}
-{% endblock %}
-
-{% block content_sidebar_flow_after %}
-  {% markdown "heat-exhaustion/main-content-after.md" %}
+{% block main_content %}
+  {% markdown "heat-exhaustion/main-content.md" %}
 {% endblock %}
