@@ -2,7 +2,7 @@
 
 Diarrhoea should go away on its own within a few days. It’s normal to also have stomach cramps and headaches. 
 
-It’s important that you drink enough fluids to [avoid dehydration](http://www.nhs.uk/Conditions/dehydration/Pages/Introduction.aspx). Your pee should be light yellow or clear.
+It’s important that you drink enough fluids to [avoid dehydration](/dehydration/). Your pee should be light yellow or clear.
 
 Drink small sips of things like water mixed with juice and soup broth to make sure you get enough salt and sugar. 
 
@@ -125,7 +125,7 @@ If you’re taking any meds, check for side effects. Diarrhoea might be one of t
 - [Crohn’s disease](http://www.nhs.uk/conditions/crohns-disease/pages/introduction.aspx)
 - [ulcerative colitis](http://www.nhs.uk/conditions/Ulcerative-colitis/Pages/Introduction.aspx)
 - [coeliac disease](http://www.nhs.uk/conditions/Coeliac-disease/Pages/Introduction.aspx)
-- [diverticular disease](http://www.nhs.uk/Conditions/Diverticular-disease-and-diverticulitis/Pages/Introduction.aspx)
+- [diverticular disease](http://www.nhs.uk/Conhyitions/Diverticular-disease-and-diverticulitis/Pages/Introduction.aspx)
 - [chronic pancreatitis](http://www.nhs.uk/conditions/Pancreatitis-chronic/Pages/Introduction.aspx)
 - [bowel cancer](http://www.nhs.uk/Conditions/Cancer-of-the-colon-rectum-or-bowel/Pages/Introduction.aspx)
 - [stomach cancer](http://www.nhs.uk/conditions/Cancer-of-the-stomach/Pages/Introduction.aspx)
