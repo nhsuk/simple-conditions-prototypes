@@ -31,7 +31,7 @@
 
 
 .reading-width {
-  max-width: 40em;
+  max-width: 40rem;
 }
 
 .grid-row:after, .link-list__row:after, .article-pagination:after, .panel--binary:after, .tabs__nav:after {
@@ -1051,6 +1051,14 @@ strong {
   padding-top: 0;
 }
 
+.page-section * {
+  max-width: 40rem;
+}
+
+.page-section .full-width {
+  max-width: 100%;
+}
+
 .page-section * + * {
   margin-top: 16px;
 }
@@ -1502,7 +1510,7 @@ strong {
 .local-header__intro {
   color: #fff;
   margin-top: 16px;
-  max-width: 40em;
+  max-width: 40rem;
   padding-top: 16px;
   position: relative;
 }
