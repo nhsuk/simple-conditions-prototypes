@@ -1085,11 +1085,11 @@ strong {
   padding-top: 0;
 }
 
-.page-section * {
+.page-section > * {
   max-width: 40rem;
 }
 
-.page-section .full-width {
+.page-section > .full-width {
   max-width: 100%;
 }
 

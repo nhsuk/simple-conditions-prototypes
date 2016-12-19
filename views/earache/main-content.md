@@ -4,7 +4,7 @@ Earache and pain may come and go and it can affect both ears at one time.
 
 To help relieve the pain and discomfort: 
 
-<article class="panel panel--binary">
+<article class="panel panel--binary full-width">
   <div class="panel__column">
     <div class="panel__content">
       <h3>Do</h3>

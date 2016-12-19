@@ -7,12 +7,12 @@
   }
   
   // set reading width by default
-  * {
+  > * {
     max-width: $measure;
   }
   
   // optionally reset width to 100%
-  .full-width {
+  > .full-width {
     max-width: 100%;
   }
 

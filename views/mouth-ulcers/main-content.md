@@ -62,7 +62,7 @@ Although most mouth ulcers are harmless, a long-lasting mouth ulcer is sometimes
 
 ## Check if you have a mouth ulcer
 
-<article>
+<article class="full-width">
   <figure class="card">
     <img src="/images/mouth-ulcers/mouth-ulcer-3.png" />
     <figcaption class="card__caption"><p>Mouth ulcers usually appear inside the mouth</p></figcaption>

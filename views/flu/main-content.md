@@ -20,55 +20,60 @@
   
 The symptoms are similar for children but they can get a pain in their ear and appear less active.
 
-::: reveal Telling the difference between cold and flu
-  Cold and flu symptoms are similar but flu tends to be more severe:
-  <table class="table--compare">
-    <thead>
-      <tr>
-        <th>Cold</th>
-        <th>Flu</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Appears gradually</td>
-        <td>Appears quickly within a few hours</td>
-      </tr>
-      <tr>
-        <td>Affects mainly your nose and throat</td>
-        <td>Affects more than just your throat and nose</td>
-      </tr>
-      <tr>
-        <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
-        <td>Makes you feel exhausted and too unwell to carry on as normal</td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <!-- Duplicate content for mobile display -->
-  <table class="table--compare" aria-hidden="true" role="presentation">
-    <thead>
-      <tr>
-        <th>Cold</th>
-        <th>Flu</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Appears gradually</td>
-        <td>Appears quickly within a few hours</td>
-      </tr>
-      <tr>
-        <td>Affects mainly your nose and throat</td>
-        <td>Affects more than just your throat and nose</td>
-      </tr>
-      <tr>
-        <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
-        <td>Makes you feel exhausted and too unwell to carry on as normal</td>
-      </tr>
-    </tbody>
-  </table>
-:::
+<article class="full-width">
+  <details>
+    <summary>
+      <span class="details__summary">Telling the difference between cold and flu</span>
+    </summary>
+    <div>
+      <p>Cold and flu symptoms are similar but flu tends to be more severe:</p>
+      <table class="table--compare">
+        <thead>
+          <tr>
+            <th>Cold</th>
+            <th>Flu</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Appears gradually</td>
+            <td>Appears quickly within a few hours</td>
+          </tr>
+          <tr>
+            <td>Affects mainly your nose and throat</td>
+            <td>Affects more than just your throat and nose</td>
+          </tr>
+          <tr>
+            <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
+            <td>Makes you feel exhausted and too unwell to carry on as normal</td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="table--compare" aria-hidden="true" role="presentation">
+        <thead>
+          <tr>
+            <th>Cold</th>
+            <th>Flu</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Appears gradually</td>
+            <td>Appears quickly within a few hours</td>
+          </tr>
+          <tr>
+            <td>Affects mainly your nose and throat</td>
+            <td>Affects more than just your throat and nose</td>
+          </tr>
+          <tr>
+            <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
+            <td>Makes you feel exhausted and too unwell to carry on as normal</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</article>
 
 ## How to treat flu yourself
 

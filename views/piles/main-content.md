@@ -16,22 +16,27 @@
   </div>
 </article>
 
-::: reveal See what piles look like
-
-![Small piles](/images/piles/piles-small_640.jpg)
-
-They can be small lumps, around the size of a pea
-
-![Pink piles](/images/piles/piles-pink_640.jpg)
-
-They can be pink or purple
-
-![Large piles](/images/piles/piles-large_640.jpg)
-
-They can grow into larger lumps, the size of grapes
-
-:::
-
+<article>
+  <details>
+    <summary>
+      <span class="details__summary">See what piles look like</span>
+    </summary>
+    <div>
+      <figure class="card">
+        <img alt="Small piles" src="/images/piles/piles-small_640.jpg" />
+        <figcaption class="card__caption"><p>They can be small lumps, around the size of a pea</p></figcaption>
+      </figure>
+      <figure class="card">
+        <img alt="Pink piles" src="/images/piles/piles-pink_640.jpg" />
+        <figcaption class="card__caption"><p>They can be pink or purple</p></figcaption>
+      </figure>
+      <figure class="card">
+        <img alt="Large piles" src="/images/piles/piles-large_640.jpg" />
+        <figcaption class="card__caption"><p>They can grow into larger lumps, the size of grapes</p></figcaption>
+      </figure>
+    </div>
+  </details>
+</article>
 
 ## How to treat piles yourself  
 
