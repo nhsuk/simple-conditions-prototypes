@@ -2,8 +2,9 @@ table {
 
   border-collapse: collapse;
   border-spacing: 0;
-  margin: ($baseline-grid-unit * 4) 0 ($baseline-grid-unit * 8);
+  margin: ($baseline-grid-unit * 4) 0 ($baseline-grid-unit * 8) 0;
   width: 100%;
+  margin-bottom: 0; // This needs to be declared, or Chrome will override
 
   th,
   td {
@@ -32,8 +33,25 @@ table {
 
 .table--striped {
   
-  th {background-color: $white;}
-  tr:nth-child(odd) td {background-color: $grey-4;}
+  tr:nth-child(odd) th,
+  tr:nth-child(even) td {
+    background-color: $grey-4;
+  }
+  
+  th,
+  td {
+    padding: ($baseline-grid-unit * 4) ($baseline-grid-unit * 2) ($baseline-grid-unit * 4) ($baseline-grid-unit * 2);
+  }
+  
+  th:first-child,
+  td:first-child {
+    padding: ($baseline-grid-unit * 4) ($baseline-grid-unit * 2) ($baseline-grid-unit * 4) ($baseline-grid-unit * 4);
+  }
+  
+  th:last-child,
+  td:last-child {
+    padding: ($baseline-grid-unit * 4) ($baseline-grid-unit * 4) ($baseline-grid-unit * 4) ($baseline-grid-unit * 2);
+  }
 }
 
 .table--compare {
@@ -58,11 +76,33 @@ table {
 
     th:nth-child(odd), 
     td:nth-child(odd) { 
-      display: none; /* not accessible!! */
+      position: absolute; // Hide accessibly
+      top: -9999px;
+      left: -9999px;
     }
-
   }
   
+  + .table--compare {
+    
+    display: none;
+    
+    @include media(mobile) {
+      
+      display: block;
+      
+      th:nth-child(odd), 
+      td:nth-child(odd) { 
+        position: static;
+        top: auto;
+        left: auto;
+      }
+
+      th:nth-child(even), 
+      td:nth-child(even) { 
+        display: none; // Hide this inaccessibly because it's duplicated content
+      }
+    }
+  }
 }
   
   

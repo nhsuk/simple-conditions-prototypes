@@ -22,12 +22,14 @@ The symptoms are similar for children but they can get a pain in their ear and a
 
 ::: reveal Telling the difference between cold and flu
   Cold and flu symptoms are similar but flu tends to be more severe:
-  <div class="table--horizontal-scroll">
-    <table class="panel panel--binary">
+  <table class="table--striped table--compare">
+    <thead>
       <tr>
         <th>Cold</th>
         <th>Flu</th>
       </tr>
+    </thead>
+    <tbody>
       <tr>
         <td>Appears gradually</td>
         <td>Appears quickly within a few hours</td>
@@ -40,8 +42,32 @@ The symptoms are similar for children but they can get a pain in their ear and a
         <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
         <td>Makes you feel exhausted and too unwell to carry on as normal</td>
       </tr>
-    </table>
-  </div>
+    </tbody>
+  </table>
+  
+  <!-- Duplicate content for mobile display -->
+  <table class="table--striped table--compare full-width" aria-hidden="true" role="presentation">
+    <thead>
+      <tr>
+        <th>Cold</th>
+        <th>Flu</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Appears gradually</td>
+        <td>Appears quickly within a few hours</td>
+      </tr>
+      <tr>
+        <td>Affects mainly your nose and throat</td>
+        <td>Affects more than just your throat and nose</td>
+      </tr>
+      <tr>
+        <td>Makes you feel unwell but you’re ok to carry on as normal - eg go to work</td>
+        <td>Makes you feel exhausted and too unwell to carry on as normal</td>
+      </tr>
+    </tbody>
+  </table>
 :::
 
 ## How to treat flu yourself

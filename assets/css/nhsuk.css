@@ -789,8 +789,9 @@ p {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  margin: 16px 0 32px;
+  margin: 16px 0 32px 0;
   width: 100%;
+  margin-bottom: 0;
 }
 
 table th,
@@ -854,12 +855,24 @@ table th {
   margin: 0;
 }
 
-.table--striped th {
-  background-color: #fff;
+.table--striped tr:nth-child(odd) th,
+.table--striped tr:nth-child(even) td {
+  background-color: #eff1f2;
 }
 
-.table--striped tr:nth-child(odd) td {
-  background-color: #eff1f2;
+.table--striped th,
+.table--striped td {
+  padding: 16px 8px 16px 8px;
+}
+
+.table--striped th:first-child,
+.table--striped td:first-child {
+  padding: 16px 8px 16px 16px;
+}
+
+.table--striped th:last-child,
+.table--striped td:last-child {
+  padding: 16px 16px 16px 8px;
 }
 
 .table--compare th,
@@ -883,8 +896,29 @@ table th {
   }
   .table--compare th:nth-child(odd),
   .table--compare td:nth-child(odd) {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+}
+
+.table--compare + .table--compare {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .table--compare + .table--compare {
+    display: block;
+  }
+  .table--compare + .table--compare th:nth-child(odd),
+  .table--compare + .table--compare td:nth-child(odd) {
+    position: static;
+    top: auto;
+    left: auto;
+  }
+  .table--compare + .table--compare th:nth-child(even),
+  .table--compare + .table--compare td:nth-child(even) {
     display: none;
-    /* not accessible!! */
   }
 }
 
