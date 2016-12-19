@@ -1677,6 +1677,7 @@ strong {
 
 .panel--binary .panel__column {
   position: relative;
+  border-top: 4px solid #d9e1e2;
 }
 
 @media (min-width: 641px) {
@@ -1684,25 +1685,12 @@ strong {
     width: 50%;
     display: table-cell;
     border-left: 4px solid #d9e1e2;
+    border-top: none;
   }
 }
 
 .panel--binary .panel__column + .panel__column {
   margin-top: 0;
-}
-
-@media (min-width: 925px) {
-  .panel--binary .panel__header,
-  .panel--binary .panel__content,
-  .panel--binary .panel__footer {
-    padding: 24px;
-  }
-}
-
-@media (min-width: 925px) {
-  .panel--binary * + * {
-    margin-top: 24px;
-  }
 }
 
 table.panel {

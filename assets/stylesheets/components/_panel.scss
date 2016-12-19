@@ -40,29 +40,18 @@
   
   .panel__column {
     position: relative;
+    border-top: 4px solid $grey-3;
     
+    // make both columns equal height on desktop
     @include media(tablet) {
       width: 50%;
       display: table-cell;
       border-left: 4px solid $grey-3;
+      border-top: none;
     }
     
     + .panel__column {
         margin-top: 0;
-    }
-  }
-  
-  .panel__header,
-  .panel__content,
-  .panel__footer {
-    @include media(desktop) {
-      padding: ($baseline-grid-unit * 6);
-    }
-  }
-  
-  * + * {
-    @include media(desktop) {
-      margin-top: ($baseline-grid-unit * 6);
     }
   }
 }
