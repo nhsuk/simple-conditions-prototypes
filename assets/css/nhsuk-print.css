@@ -260,6 +260,12 @@ dt {
   }
 }
 
+.local-header dd,
+.page-section dd,
+.global-footer dd {
+  margin-top: 8px;
+}
+
 .local-header li + li,
 .local-header li + dd,
 .local-header dd + li,

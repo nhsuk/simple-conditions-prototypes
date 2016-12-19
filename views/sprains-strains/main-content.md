@@ -4,24 +4,43 @@
 - the injury is swollen and may be bruised
 - you can’t put weight on the injury or use it normally
 
-::: reveal Is it a sprain or a strain?
-  <div class="table--horizontal-scroll">
-    <table class="panel panel--binary">
-      <tr>
-        <th>Sprains</th>
-        <th>Strains</th>
-      </tr>
-      <tr>
-        <td>Torn or twisted ligament (tissue that connects the joints)</td>
-        <td>Overstretched or torn muscle (also known as a pulled muscle)</td>
-      </tr>
-      <tr>
-        <td>Most common in: wrists, ankles, thumbs, knees</td>
-        <td>Most common in: knees, feet, legs, back
-      </tr>
-    </table>
-  </div>
-:::
+<article class="full-width">
+  <details>
+    <summary>
+      <span class="details__summary">Is it a sprain or a strain?</span>
+    </summary>
+    <div>
+      <table class="table--compare">
+        <tr>
+          <th>Sprains</th>
+          <th>Strains</th>
+        </tr>
+        <tr>
+          <td>Torn or twisted ligament (tissue that connects the joints)</td>
+          <td>Overstretched or torn muscle (also known as a pulled muscle)</td>
+        </tr>
+        <tr>
+          <td>Most common in: wrists, ankles, thumbs, knees</td>
+          <td>Most common in: knees, feet, legs, back
+        </tr>
+      </table>
+      <table class="table--compare" class="table--compare" aria-hidden="true" role="presentation">
+        <tr>
+          <th>Sprains</th>
+          <th>Strains</th>
+        </tr>
+        <tr>
+          <td>Torn or twisted ligament (tissue that connects the joints)</td>
+          <td>Overstretched or torn muscle (also known as a pulled muscle)</td>
+        </tr>
+        <tr>
+          <td>Most common in: wrists, ankles, thumbs, knees</td>
+          <td>Most common in: knees, feet, legs, back
+        </tr>
+      </table>
+    </div>
+  </details>
+</article>
 
 ## How to treat sprains and strains yourself
 

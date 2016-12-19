@@ -33,6 +33,11 @@ dt {
 .local-header,
 .page-section,
 .global-footer {
+  
+  dd {
+    margin-top: $baseline-grid-unit * 2;
+  }
+  
   li, 
   dd {
     + li, 

@@ -38,13 +38,13 @@ Call 111 for advice or if you’re not sure what to do.
 
 !!! attention
   ## See your GP if:
-- a high temperature
-- swelling around the ear
-- fluid coming from the ear
-- something stuck in the ear
-- is vomiting
-- an earache for more than 3 days
-- hearing loss or a change in hearing
+  - a high temperature
+  - swelling around the ear
+  - fluid coming from the ear
+  - something stuck in the ear
+  - is vomiting
+  - an earache for more than 3 days
+  - hearing loss or a change in hearing
   <hr>
   
   If your GP surgery is closed, contact 111 or your local [out-of-hours service](#)

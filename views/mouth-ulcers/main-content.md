@@ -6,7 +6,7 @@ Mouth ulcers need time to heal and there’s no quick fix. Avoiding things that 
 - reduce pain
 - reduce the chance of it returning
 
-<article class="panel panel--binary">
+<article class="panel panel--binary full-width">
   <div class="panel__column">
     <div class="panel__content">
       <h3>Do</h3>

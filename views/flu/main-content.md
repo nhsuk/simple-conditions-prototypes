@@ -1,22 +1,17 @@
-<article class="panel">
-  <div class="panel__content">
-    <h2>Check if you have flu</h2>
-    <p>Flu symptoms come on very quickly and can include:</p>
-    <ul class="list--chevron">
-      <li>fever – a temperature of 38C or above</li>
-      <li>aching body</li>
-      <li>feeling tired or exhausted</li>
-      <li>feeling weakness</li>
-      <li>a dry, chesty cough</li>
-      <li>a headache</li>
-      <li>difficulty sleeping</li>
-      <li>loss of appetite</li>
-      <li>a sore throat</li>
-      <li>diarrhoea or tummy pain</li>
-      <li>nausea and vomiting</li>
-    </ul>
-  </div>
-</article>
+## Check if you have flu
+
+Flu symptoms come on very quickly and can include:
+
+- fever – a temperature of 38C or above
+- aching body
+- feeling tired or exhausted
+- feeling weakness
+- a dry, chesty cough
+- a headache<
+- difficulty sleeping
+- loss of appetite
+- diarrhoea or tummy pain
+- nausea and vomiting
   
 The symptoms are similar for children but they can get a pain in their ear and appear less active.
 
@@ -141,8 +136,8 @@ The flu vaccine reduces the risk of catching flu as well as spreading it to othe
 
 It’s more effective to get the vaccine before the start of the flu season (December to March).
 
-[Find out if you’re eligible for the free NHS flu  vaccine](http://www.nhs.uk/Conditions/vaccinations/Pages/who-should-have-flu-vaccine.aspx).
+[Find out if you’re eligible for the free NHS flu  vaccine](http://www.nhs.uk/Conditions/vaccinations/Pages/who-should-have-flu-vaccine.aspx)
 
-[Flu vaccination and side effects for adults](http://www.nhs.uk/conditions/vaccinations/pages/flu-influenza-vaccine.aspx).  
+[Flu vaccination and side effects for adults](http://www.nhs.uk/conditions/vaccinations/pages/flu-influenza-vaccine.aspx)
 
-[Flu vaccination and side effects for children](http://www.nhs.uk/conditions/vaccinations/pages/child-flu-vaccine.aspx). 
+[Flu vaccination and side effects for children](http://www.nhs.uk/conditions/vaccinations/pages/child-flu-vaccine.aspx)

@@ -26,7 +26,7 @@ Hay fever will last for weeks or months unlike a cold which usually goes away af
 There is currently no cure for hay fever and you can’t really prevent getting it. 
 However, you can do some simple things to ease your symptoms. 
 
-<article class="panel panel--binary">
+<article class="panel panel--binary full-width">
   <div class="panel__column">
     <div class="panel__content">
       <h3>Do</h3>
