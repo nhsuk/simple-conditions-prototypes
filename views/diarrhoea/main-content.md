@@ -41,8 +41,8 @@ Diarrhoea can be infectious. Check with your GP before you go in. They may sugge
 
 You can often safely look after your baby or toddler at home. However it’s very important to watch out for signs of dehydration. Babies and toddlers can become dehydrated more quickly than older children when they have diarrhoea and vomiting. If dehydration becomes severe it can be dangerous, particularly in young babies.
 
-<section class="panel panel--binary">
-  <article class="panel__column">
+<article class="panel panel--binary">
+  <section class="panel__column">
     <div class="panel__content">
       <h3>Do</h3>
       <ul class="list--check">
@@ -52,8 +52,8 @@ You can often safely look after your baby or toddler at home. However it’s ver
         <li>if your child is eating solid foods, offer them their usual food if they want it</li>
       </ul>
     </div>
-  </article>
-  <article class="panel__column">
+  </section>
+  <section class="panel__column">
     <div class="panel__content">
       <h3>Don’t</h3>
       <ul class="list--cross">
@@ -61,9 +61,8 @@ You can often safely look after your baby or toddler at home. However it’s ver
         <li>give them fruit juice and fizzy drinks (they can make the diarrhoea worse)</li>
       </ul>
     </div>
-  </article>
-</section>
-
+  </section>
+</article>
 
 !!! attention
   ## Take your baby or toddler to the GP if they:

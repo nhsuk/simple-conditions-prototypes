@@ -22,7 +22,7 @@ The symptoms are similar for children but they can get a pain in their ear and a
 
 ::: reveal Telling the difference between cold and flu
   Cold and flu symptoms are similar but flu tends to be more severe:
-  <table class="table--striped table--compare">
+  <table class="table--compare">
     <thead>
       <tr>
         <th>Cold</th>
@@ -46,7 +46,7 @@ The symptoms are similar for children but they can get a pain in their ear and a
   </table>
   
   <!-- Duplicate content for mobile display -->
-  <table class="table--striped table--compare full-width" aria-hidden="true" role="presentation">
+  <table class="table--compare" aria-hidden="true" role="presentation">
     <thead>
       <tr>
         <th>Cold</th>

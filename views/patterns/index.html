@@ -15,6 +15,10 @@
     <strong>Fusce vitae accumsan ex, eu semper sem.</strong> Donec sit amet metus a lacus feugiat gravida sit amet eget lorem. <em>Donec pulvinar</em> gravida consequat. Sed dolor felis, dignissim nec ipsum eu, molestie cursus elit. Donec commodo malesuada metus. Nulla efficitur, sapien ac interdum pellentesque, <a href="#">risus ligula</a> feugiat nulla, at ultrices mauris felis fringilla massa.
   </p>
 
+  <h2>Lists</h2>
+  
+  <h3>Bullet list</h3>
+
   <ul>
     <li>Unordered list item one</li>
     <li>Unordered list item two</li>
@@ -27,6 +31,8 @@
     </li>
   </ul>
 
+  <h3>Numbered list</h3>
+
   <ol>
     <li>Ordered list item one</li>
     <li>Ordered list item two</li>
@@ -38,6 +44,8 @@
       </ol>
     </li>
   </ol>
+
+  <h3>Definition list</h3>
 
   <dl>
     <dt>Definition list item one</dt>
@@ -53,6 +61,30 @@
     aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
     commodo consequat.</dd>
   </dl>
+
+  <h3>Chevron list</h3>
+
+  <ul class="list--chevron">
+    <li>Unordered list item one</li>
+    <li>Unordered list item two</li>
+    <li>Unordered list item three</li>
+  </ul>
+
+  <h3>Check list</h3>
+
+  <ul class="list--check">
+    <li>Unordered list item one</li>
+    <li>Unordered list item two</li>
+    <li>Unordered list item three</li>
+  </ul>
+
+  <h3>Cross list</h3>   
+
+  <ul class="list--cross">
+    <li>Unordered list item one</li>
+    <li>Unordered list item two</li>
+    <li>Unordered list item three</li>
+  </ul>
 
   <hr>
 
@@ -178,6 +210,68 @@
     </tbody>
   </table>
 
+  <h2>Panels</h2>
+
+  <h3>Panel with header</h3>
+
+  <article class="panel">
+    <div class="panel__header">
+      <h3>To keep your skin cool:</h3>
+    </div>
+    <div class="panel__content">
+      <ul class="list--chevron">
+        <li>wear loose cotton clothing</li>
+        <li>use lightweight bedding</li>
+        <li>take cool baths or showers</li>
+        <li>drink plenty of fluid to avoid dehydration</li>
+      </ul>
+    </div>
+  </article>
+
+  <h3>Panel with footer</h3>
+
+  <article class="panel">
+    <div class="panel__content">
+      <h2>Check if it’s piles</h2>
+      <p>It might be piles if you have:</p>
+      <ul class="list--chevron">
+        <li>lumps around the anus</li>
+        <li>bright red blood after you poo</li>
+        <li>pain or discomfort when pooing</li>
+        <li>an itchy bottom</li>
+        <li>mucus leaking from your bottom after you’ve been to the toilet</li>
+        <li>soreness, redness and swelling around your anus</li>
+        </ul>
+    </div>
+    <div class="panel__footer">
+      <h3>You can usually treat piles yourself.</h3>
+    </div>
+  </article>
+  
+  <h3>Binary panel</h3>
+
+  <article class="panel panel--binary">
+    <section class="panel__column">
+      <div class="panel__content">
+        <h3>Do</h3>
+        <ul class="list--check">
+          <li>give them enough to drink in small sips - they <a href="http://www.nhs.uk/Conditions/Dehydration/Pages/Symptoms.aspx">dehydrate very quickly</a></li>
+          <li>continue breastfeeding or formula as normal</li>
+          <li>to ease the pain you can give liquid paracetamol for children</li>
+          <li>if your child is eating solid foods, offer them their usual food if they want it</li>
+        </ul>
+      </div>
+    </section>
+    <section class="panel__column">
+      <div class="panel__content">
+        <h3>Don’t</h3>
+        <ul class="list--cross">
+          <li>give them medicines to stop the diarrhoea</li>
+          <li>give them fruit juice and fizzy drinks (they can make the diarrhoea worse)</li>
+        </ul>
+      </div>
+    </section>
+  </article>
 
   <h2>Inline markup</h2>
 
@@ -189,94 +283,25 @@
     <li><abbr title="An abbreviation">Abbreviation</abbr></li>
   </ul>
 
-  <form>
-    <h2>Basic form elements</h2>
-
-    <fieldset>
-      <legend class="form-label">Stacked radio buttons</legend>
-
-      <div class="form-group">
-        <label for="radio-1" class="selection-button selection-button__radio">
-          <input id="radio-1" type="radio" name="radio-group" value="radio-1" class="selection-button--input">
-          Radio 1
-        </label>
-        <label for="radio-2" class="selection-button selection-button__radio">
-          <input id="radio-2" type="radio" name="radio-group" value="radio-2" class="selection-button--input">
-          Radio 2
-        </label>
-        <label for="radio-3" class="selection-button selection-button__radio">
-          <input id="radio-3" type="radio" name="radio-group" value="radio-3" class="selection-button--input">
-          Radio 3
-        </label>
-      </div>
-    </fieldset>
-
-    <fieldset>
-      <legend>Inline radio buttons</legend>
-
-      <div class="form-group">
-        <label for="inline-radio-1" class="selection-button selection-button--inline selection-button__radio">
-          <input id="inline-radio-1" type="radio" name="inline-radio-group" value="inline-radio-1" class="selection-button__input">
-          Radio 1
-        </label>
-        <label for="inline-radio-2" class="selection-button selection-button--inline selection-button__radio">
-          <input id="inline-radio-2" type="radio" name="inline-radio-group" value="inline-radio-2" class="selection-button__input">
-          Radio 2
-        </label>
-        <label for="inline-radio-3" class="selection-button selection-button--inline selection-button__radio">
-          <input id="inline-radio-3" type="radio" name="inline-radio-group" value="inline-radio-3" class="selection-button__input">
-          Radio 3
-        </label>
-      </div>
-    </fieldset>
-
-    <fieldset>
-      <legend>Stacked checkboxes</legend>
-
-      <div class="form-group">
-        <label for="checkbox-1" class="selection-button selection-button--checkbox">
-          <input id="checkbox-1" type="checkbox" name="checkbox-group" value="checkbox-1" class="selection-button__input">
-          Checkbox 1
-        </label>
-        <label for="checkbox-2" class="selection-button selection-button--checkbox">
-          <input id="checkbox-2" type="checkbox" name="checkbox-group" value="checkbox-2" class="selection-button__input">
-          Checkbox 2
-        </label>
-        <label for="checkbox-3" class="selection-button selection-button--checkbox">
-          <input id="checkbox-3" type="checkbox" name="checkbox-group" value="checkbox-3" class="selection-button__input">
-          Checkbox 3
-        </label>
-      </div>
-    </fieldset>
-
-    <fieldset>
-      <legend>Inline checkboxes</legend>
-
-      <div class="form-group">
-        <label for="inline-checkbox-1" class="selection-button selection-button--inline selection-button--checkbox">
-          <input id="inline-checkbox-1" type="checkbox" name="inline-checkbox-group" value="inline-checkbox-1" class="selection-button__input">
-          Checkbox 1
-        </label>
-        <label for="inline-checkbox-2" class="selection-button selection-button--inline selection-button--checkbox">
-          <input id="inline-checkbox-2" type="checkbox" name="inline-checkbox-group" value="inline-checkbox-2" class="selection-button__input">
-          Checkbox 2
-        </label>
-        <label for="inline-checkbox-3" class="selection-button selection-button--inline selection-button--checkbox">
-          <input id="inline-checkbox-3" type="checkbox" name="inline-checkbox-group" value="inline-checkbox-3" class="selection-button__input">
-          Checkbox 3
-        </label>
-      </div>
-    </fieldset>
-  </form>
-
   <h2>Callouts</h2>
 
   <div class="callout callout--info">
+    <h2>Call 111</h2>
+    <p>An information callout</p>
+  </div>
+
+  <div class="callout callout--info callout--compact">
     <p>An information callout</p>
   </div>
 
   <div class="callout callout--attention">
-    <p>An attention callout</p>
+    <h2>See a GP if:</h2>
+    <ul>
+      <li>symptom this</li>
+      <li>symptom that</li>
+    </ul>
+    <hr class="divider">
+    <p>Or call 111 out of hours.</p>
   </div>
 
   <div class="callout callout--warning">
@@ -284,37 +309,53 @@
   </div>
 
   <div class="callout callout--alert">
-    <p>An alert callout</p>
+    <h2>See a GP or go to A&amp;E:</h2>
+    <ul>
+      <li>symptom this</li>
+      <li>symptom that</li>
+    </ul>
+    <hr class="divider">
+    <p>It might be XYZ.</p>
   </div>
 
   <div class="callout callout--severe">
-    <p>A severe callout</p>
+    <h2>Go to A&amp;E or call 999:</h2>
+    <ul>
+      <li>symptom this</li>
+      <li>symptom that</li>
+    </ul>
+    <hr class="divider">
+    <p>It might be XYZ.</p>
   </div>
-</div>
 
-<h2>Reveal</h2>
+  <h2>Reveal</h2>
 
-<details>
-  <summary>
-    <span class="details__summary">Help with something</span>
-  </summary>
+  <h3>Block reveal</h3>
 
-  <div>
-    <p>Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida.</p>
-  </div>
-</details>
+  <details>
+    <summary>
+      <span class="details__summary">Help with something</span>
+    </summary>
 
-<details class="details--inline">
-  <summary>
-    <span class="details__summary">
-      Vivamus magna. Cras in mi at <span class="details__cta">felis aliquet congue.</span>
-    </span>
-  </summary>
+    <div>
+      <p>Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida.</p>
+    </div>
+  </details>
 
-  <div>
-    <p>Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget
-      ligula molestie gravida. Vivamus magna. Cras in mi at felis aliquet
-      congue. Ut a est eget ligula molestie gravida.</p>
-  </div>
-</details>
+  <h3>Inline reveal</h3>
+
+  <details class="details--inline">
+    <summary>
+      <span class="details__summary">
+        Vivamus magna. Cras in mi at <span class="details__cta">felis aliquet congue.</span>
+      </span>
+    </summary>
+
+    <div>
+      <p>Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget
+        ligula molestie gravida. Vivamus magna. Cras in mi at felis aliquet
+        congue. Ut a est eget ligula molestie gravida.</p>
+    </div>
+  </details>
+
 {% endblock %}
