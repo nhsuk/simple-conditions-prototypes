@@ -150,10 +150,3 @@ If your child seems unwell with a rash and has a fever.
   <p>You can buy creams from your pharmacy to help clear it up.</p>
   </div>
 </div>
-
-<div class="callout callout--muted">
-  <div class="reading-width">
-  <h2>Call 111</h2>
-  <p>If you can’t speak to your GP or don’t know what to do next.</p>
-  </div>
-</div>

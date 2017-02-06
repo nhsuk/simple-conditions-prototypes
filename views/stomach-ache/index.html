@@ -1,0 +1,9 @@
+{% extends '_layouts/content-simple.nunjucks' %}
+
+{% set title = 'Stomach ache' %}
+{% set intro = 'Most stomach aches aren’t anything serious and will go away after a few days.' %}
+{% set nonEmergencyCallout = 'true' %}
+
+{% block main_content %}
+  {% markdown "stomach-ache/main-content.md" %}
+{% endblock %}
