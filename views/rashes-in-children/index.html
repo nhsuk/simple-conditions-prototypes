@@ -1,0 +1,10 @@
+{% extends '_layouts/content-simple.nunjucks' %}
+
+{% set title = 'Rashes in babies and children' %}
+{% set intro = 'Many things can cause a rash in children and they’re often nothing to worry about.' %}
+{% set link_list = { 'Rash with fever': '#fever', 'Rash with itching': '#itching', 'Rash with fever or itching': '#no-fever' } %}
+{% set nonEmergencyCallout = 'true' %}
+
+{% block main_content %}
+  {% markdown "rashes-in-children/main-content.md" %}
+{% endblock %}
