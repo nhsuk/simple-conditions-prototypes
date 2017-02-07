@@ -52,7 +52,7 @@ This information shouldn’t be used to self-diagnose, but it might give you a b
 | Sudden pain in the lower right hand side    | [appendicitis](http://www.nhs.uk/Conditions/appendicitis/Pages/Introduction.aspx)   | 
 | Sudden pain with lower back or groin pain     | kidney stones     | 
 | Pain that comes and goes    | [diverticulitis](http://www.nhs.uk/Conditions/Trichomonas_vaginalis/Pages/Introduction.aspx)      | 
-|Pain with bloating, diarrhoea and constipation]     | [Irritable bowel syndrome](http://www.nhs.uk/Conditions/Irritable-bowel-syndrome/Pages/Treatment.aspx)      | 
+|Pain with bloating, diarrhoea and constipation     | [Irritable bowel syndrome](http://www.nhs.uk/Conditions/Irritable-bowel-syndrome/Pages/Treatment.aspx)      | 
 | Pain with extreme tiredness or blood in your poo    | [Crohn's disease](http://www.nhs.uk/Conditions/Crohns-disease/Pages/Symptoms.aspx)    |
 | Pain with your period   | [period pain](http://www.nhs.uk/Conditions/Periods-painful/Pages/Introduction.aspx)      | 
 | Pain in the upper right-hand side that spreads to your shoulder   | [acute cholectystitis](http://www.nhs.uk/conditions/Cholecystitis-acute/Pages/Introduction.aspx)    |
